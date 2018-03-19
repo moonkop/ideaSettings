@@ -1,0 +1,42 @@
+<application>
+  <component name="MainMenuCollector">
+    <counts>
+      <entry path="Analyze -&gt; Hide Coverage Data" count="1" />
+      <entry path="Analyze -&gt; Inspect Code..." count="1" />
+      <entry path="Build -&gt; Build Module" count="1" />
+      <entry path="Build -&gt; Build Project" count="1" />
+      <entry path="Build -&gt; Rebuild" count="1" />
+      <entry path="Code -&gt; Convert Java File to Kotlin File" count="2" />
+      <entry path="Edit -&gt; Find -&gt; Find in Path..." count="3" />
+      <entry path="File -&gt; Close Project" count="7" />
+      <entry path="File -&gt; Export Settings..." count="3" />
+      <entry path="File -&gt; File Encoding" count="1" />
+      <entry path="File -&gt; Invalidate Caches / Restart..." count="2" />
+      <entry path="File -&gt; New -&gt; Kotlin File/Class" count="1" />
+      <entry path="File -&gt; New -&gt; Module..." count="1" />
+      <entry path="File -&gt; New -&gt; Project..." count="3" />
+      <entry path="File -&gt; New Project..." count="1" />
+      <entry path="File -&gt; New..." count="1" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="13" />
+      <entry path="File -&gt; Settings..." count="26" />
+      <entry path="File -&gt; Synchronize" count="2" />
+      <entry path="Help -&gt; Register..." count="2" />
+      <entry path="Run -&gt; Debug" count="1" />
+      <entry path="Run -&gt; Run" count="6" />
+      <entry path="Tools -&gt; Deployment -&gt; Configuration..." count="12" />
+      <entry path="Tools -&gt; Deployment -&gt; Upload to Default Server" count="1" />
+      <entry path="VCS -&gt; Git -&gt; Merge Changes..." count="2" />
+      <entry path="VCS -&gt; Git -&gt; Show History" count="1" />
+      <entry path="View -&gt; Context Info" count="1" />
+      <entry path="View -&gt; Navigation Bar" count="2" />
+      <entry path="View -&gt; Parameter Info" count="2" />
+      <entry path="View -&gt; Quick Switch Scheme..." count="2" />
+      <entry path="View -&gt; Show Siblings" count="1" />
+      <entry path="View -&gt; Status Bar" count="2" />
+      <entry path="View -&gt; Tool Buttons" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Ant Build" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Gradle" count="2" />
+      <entry path="View -&gt; Toolbar" count="2" />
+    </counts>
+  </component>
+</application>

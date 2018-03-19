@@ -1,0 +1,332 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:/WorkSpace/untitled" />
+        <option value="$USER_HOME$/Desktop/forge-1.7.10-10.13.4.1558-1.7.10-src" />
+        <option value="$USER_HOME$/Desktop/ironchest-1.7.10" />
+        <option value="$USER_HOME$/Desktop/ironchest" />
+        <option value="$USER_HOME$/Desktop/ironchest-master" />
+        <option value="$USER_HOME$/Desktop/forge-1.8-11.14.4.1577-mdk" />
+        <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/gradle.plugin.net.minecraftforge.gradle/ForgeGradle/2.0.2/8e70e41d34fbfaeb732d845b81e9474d91f9ab04/ForgeGradle-2.0.2-dec" />
+        <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/gradle.plugin.net.minecraftforge.gradle/ForgeGradle/2.0.2/8e70e41d34fbfaeb732d845b81e9474d91f9ab04/ForgeGradle-2.0.2" />
+        <option value="D:/WorkSpace/vue-test/vue-test" />
+        <option value="D:/WorkSpace/vue2-happyfri-master" />
+        <option value="D:/WorkSpace/vue-test/vue-simple-test" />
+        <option value="$USER_HOME$/Desktop/DouroMod-zhengxiaoyao0716" />
+        <option value="D:/WorkSpace/vue-test/vue-webpack-simple-test" />
+        <option value="D:/WorkSpace/vue-music-master" />
+        <option value="E:/WorkSpace/src/vue-music-master" />
+        <option value="E:/WorkSpace/src/v2ray-core-master" />
+        <option value="D:/WorkSpace/AngularTutorial" />
+        <option value="D:/WorkSpace/ReactTutorial" />
+        <option value="$USER_HOME$/Desktop/Servlet-master/Servlet-master/ReactTutorial" />
+        <option value="$USER_HOME$/Desktop/Servlet-master/Servlet-master/bootstrapTutorial" />
+        <option value="$USER_HOME$/Desktop/Servlet-master/Servlet-master/jsp1" />
+        <option value="$USER_HOME$/IdeaProjects/untitled" />
+        <option value="$USER_HOME$/Desktop/Servlet-master/Servlet-master/servlet" />
+        <option value="$USER_HOME$/Desktop/javaWeb-master" />
+        <option value="$USER_HOME$/IdeaProjects/JavaWebTrial" />
+        <option value="$USER_HOME$/IdeaProjects/SpringTrial" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:/WorkSpace/untitled" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:/WorkSpace/untitled" />
+    <option name="pid" value="" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/gradle.plugin.net.minecraftforge.gradle/ForgeGradle/2.0.2/8e70e41d34fbfaeb732d845b81e9474d91f9ab04/ForgeGradle-2.0.2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521012258960" />
+              <option name="buildTimestamp" value="1517264929369" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/gradle.plugin.net.minecraftforge.gradle/ForgeGradle/2.0.2/8e70e41d34fbfaeb732d845b81e9474d91f9ab04/ForgeGradle-2.0.2-dec">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521012259269" />
+              <option name="buildTimestamp" value="1517264929369" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/DouroMod-zhengxiaoyao0716">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520919869483" />
+              <option name="buildTimestamp" value="1517264903765" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Servlet-master/Servlet-master/ReactTutorial">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520590354536" />
+              <option name="buildTimestamp" value="1517264885788" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Servlet-master/Servlet-master/bootstrapTutorial">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520589254804" />
+              <option name="buildTimestamp" value="1517264884953" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Servlet-master/Servlet-master/jsp1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520589122781" />
+              <option name="buildTimestamp" value="1517264884953" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/Servlet-master/Servlet-master/servlet">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520581466395" />
+              <option name="buildTimestamp" value="1517264907285" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/forge-1.7.10-10.13.4.1558-1.7.10-src">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521422804125" />
+              <option name="buildTimestamp" value="1517264898787" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/forge-1.8-11.14.4.1577-mdk">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521012263871" />
+              <option name="buildTimestamp" value="1517264929369" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ironchest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521017528853" />
+              <option name="buildTimestamp" value="1517264915677" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ironchest-1.7.10">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521040455852" />
+              <option name="buildTimestamp" value="1517264915677" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/ironchest-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521017485814" />
+              <option name="buildTimestamp" value="1517264915677" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/javaWeb-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520581126231" />
+              <option name="buildTimestamp" value="1517264907285" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/JavaWebTrial">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520575941024" />
+              <option name="buildTimestamp" value="1517264907285" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/SpringTrial">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520575255212" />
+              <option name="buildTimestamp" value="1517264907285" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/IdeaProjects/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520581587821" />
+              <option name="buildTimestamp" value="1517264907285" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/AngularTutorial">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520591623112" />
+              <option name="buildTimestamp" value="1517264897277" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/ReactTutorial">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520591426283" />
+              <option name="buildTimestamp" value="1517264897277" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/untitled">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521460544272" />
+              <option name="buildTimestamp" value="1517264898787" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/vue-music-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520594120904" />
+              <option name="buildTimestamp" value="1517264881949" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/vue-test/vue-simple-test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520921940214" />
+              <option name="buildTimestamp" value="1517264903765" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/vue-test/vue-test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520921998602" />
+              <option name="buildTimestamp" value="1517264929153" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/vue-test/vue-webpack-simple-test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520854825567" />
+              <option name="buildTimestamp" value="1517264903765" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/vue2-happyfri-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520921942115" />
+              <option name="buildTimestamp" value="1517264903765" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/WorkSpace/src/v2ray-core-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520591771455" />
+              <option name="buildTimestamp" value="1517264905826" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/WorkSpace/src/vue-music-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520592931754" />
+              <option name="buildTimestamp" value="1517264910204" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="$USER_HOME$/Desktop" />
+  </component>
+</application>

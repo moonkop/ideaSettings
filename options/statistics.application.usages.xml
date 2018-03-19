@@ -1,0 +1,376 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="file-type">
+      <project id="ironchest" values="Images,CLASS" collectionTime="1520991430369" />
+      <project id="gateways" values="UNKNOWN,PHP,PLAIN_TEXT,Scratch,Smarty" collectionTime="1517115217974" />
+      <project id="jsp1" values="JSP,Eclipse,IDEA_MODULE,JAVA,XML,PLAIN_TEXT" collectionTime="1520585473547" />
+      <project id="forge-1.7.10-10.13.4.1558-1.7.10-src" values="XML,CLASS,JSON,IDEA_MODULE,Groovy,Manifest,JAVA,ARCHIVE,Log,Properties,PLAIN_TEXT,UNKNOWN" collectionTime="1521014683514" />
+      <project id="vue-simple-test" values="Markdown,PLAIN_TEXT,JSON,JavaScript,HTML,Vue.js,Images" collectionTime="1520856810700" />
+      <project id="ForgeGradle-2.0.2" values="PLAIN_TEXT,Properties,JSON,ARCHIVE,XML,CLASS,DTD,JAVA,HTML,Manifest,Groovy,UNKNOWN" collectionTime="1521007734252" />
+      <project id="ForgeGradle-2.0.2-dec" values="UNKNOWN,JSON,XML,Properties,IDEA_MODULE,DTD,Manifest,PLAIN_TEXT,HTML,Groovy,JAVA,ARCHIVE" collectionTime="1521007589667" />
+      <project id="vue-webpack-simple-test" values="Images,PLAIN_TEXT,Vue.js,JavaScript,HTML,JSON,Markdown" collectionTime="1520854330620" />
+      <project id="h5ai" values="PLAIN_TEXT,PHP,JSON,Images,SVG,HTML,Less,Markdown,htaccess,JavaScript" collectionTime="1517723497313" />
+      <project id="javaWeb" values="ARCHIVE,XML,IDEA_MODULE,JSP,JAVA" collectionTime="1520578474922" />
+      <project id="vue2-happyfri-master" values="PLAIN_TEXT,HTML,Less,Markdown,JSON,CSS,Vue.js,Images,JavaScript" collectionTime="1520854330605" />
+      <project id="SpringTrial" values="JSP,XML,IDEA_MODULE,ARCHIVE" collectionTime="1520561813792" />
+      <project id="vue-test" values="PLAIN_TEXT,Images,Vue.js,HTML,Markdown,UNKNOWN,JSON,JavaScript" collectionTime="1520854330591" />
+      <project id="ironchest-1.7.10" values="Properties,Log,Markdown,JAVA,Groovy,IDEA_MODULE,Images,UNKNOWN,ARCHIVE,PLAIN_TEXT" collectionTime="1521019438552" />
+      <project id="Sheet" values="SVG,JSON,PLAIN_TEXT,PHP,JavaScript,HTML,Smarty,Images,UNKNOWN,CSS,SQLite Database,SourceMap,Markdown,SQL" collectionTime="1517495846574" />
+      <project id="_h5ai" values="JSON,SVG,CSS,Markdown,UNKNOWN,ARCHIVE,PHP,Images,JavaScript,htaccess" collectionTime="1517668154030" />
+      <project id="forge-1.8-11.14.4.1577-mdk" values="Log,XML,PLAIN_TEXT,Properties,Images,ARCHIVE,JAVA,JSON,UNKNOWN,Groovy" collectionTime="1520994718812" />
+      <project id="untitled" values="IDEA_MODULE,JAVA,UNKNOWN" collectionTime="1521424604840" />
+    </group>
+    <group name="Run Dashboard">
+      <project id="ironchest" values="run.dashboard.disabled" collectionTime="1520991430369" />
+      <project id="gateways" values="run.dashboard.disabled" collectionTime="1517115217974" />
+      <project id="jsp1" values="run.dashboard.disabled" collectionTime="1520585473548" />
+      <project id="forge-1.7.10-10.13.4.1558-1.7.10-src" values="run.dashboard.disabled" collectionTime="1521014683515" />
+      <project id="vue-simple-test" values="run.dashboard.disabled" collectionTime="1520856810700" />
+      <project id="ForgeGradle-2.0.2" values="run.dashboard.disabled" collectionTime="1521007734252" />
+      <project id="ForgeGradle-2.0.2-dec" values="run.dashboard.disabled" collectionTime="1521007589667" />
+      <project id="vue-webpack-simple-test" values="run.dashboard.disabled" collectionTime="1520854330620" />
+      <project id="h5ai" values="run.dashboard.disabled" collectionTime="1517723497325" />
+      <project id="javaWeb" values="run.dashboard.disabled" collectionTime="1520578474922" />
+      <project id="vue2-happyfri-master" values="run.dashboard.disabled" collectionTime="1520854330606" />
+      <project id="SpringTrial" values="run.dashboard.disabled" collectionTime="1520561813796" />
+      <project id="vue-test" values="run.dashboard.disabled" collectionTime="1520854330591" />
+      <project id="ironchest-1.7.10" values="run.dashboard.disabled" collectionTime="1521019438552" />
+      <project id="Sheet" values="run.dashboard.disabled" collectionTime="1517495846578" />
+      <project id="_h5ai" values="run.dashboard.disabled" collectionTime="1517668154031" />
+      <project id="forge-1.8-11.14.4.1577-mdk" values="run.dashboard.disabled" collectionTime="1520994718812" />
+      <project id="untitled" values="run.dashboard.disabled" collectionTime="1521424604841" />
+    </group>
+    <group name="Blade.textBlocks">
+      <project id="h5ai" values="new" collectionTime="1517723497561" />
+      <project id="gateways" values="new" collectionTime="1517115217979" />
+      <project id="Sheet" values="new" collectionTime="1517495848104" />
+      <project id="_h5ai" values="new" collectionTime="1517668154509" />
+    </group>
+    <group name="php-default-name-interpreters">
+      <project id="h5ai" values="Local Extended 0,Local 0,Local Default 0" collectionTime="1517723497542" />
+      <project id="gateways" values="Local Default 0,Local 0,Local Extended 0" collectionTime="1517115217978" />
+      <project id="Sheet" values="Local Extended 0,Local 0,Local Default 0" collectionTime="1517495848017" />
+      <project id="_h5ai" values="Local Default 0,Local Extended 0,Local 0" collectionTime="1517668154488" />
+    </group>
+    <group name="php-extensions">
+      <project id="h5ai" values="Default" collectionTime="1517723497547" />
+      <project id="gateways" values="Default" collectionTime="1517115217978" />
+      <project id="Sheet" values="Default" collectionTime="1517495848034" />
+      <project id="_h5ai" values="Default" collectionTime="1517668154489" />
+    </group>
+    <group name="php-interpreter-version-short">
+      <project id="h5ai" values="not installed" collectionTime="1517723497542" />
+      <project id="gateways" values="not installed" collectionTime="1517115217978" />
+      <project id="Sheet" values="not installed" collectionTime="1517495848017" />
+      <project id="_h5ai" values="not installed" collectionTime="1517668154488" />
+    </group>
+    <group name="jdbc-datasource">
+      <project id="Sheet" values="MySQL/5.7.19-log,MySQL/5.5.57-log,MySQL/5.5.54-log" collectionTime="1517495847898" />
+    </group>
+    <group name="composer executable">
+      <project id="h5ai" values="executable unconfigured (default settings)" collectionTime="1517723497552" />
+      <project id="gateways" values="executable unconfigured (default settings)" collectionTime="1517115217978" />
+      <project id="Sheet" values="executable unconfigured (default settings)" collectionTime="1517495848059" />
+      <project id="_h5ai" values="executable unconfigured (default settings)" collectionTime="1517668154494" />
+    </group>
+    <group name="module-language-level">
+      <project id="ironchest" values="JDK_1_9" collectionTime="1520991430369" />
+      <project id="jsp1" values="JDK_1_5" collectionTime="1520585473590" />
+      <project id="forge-1.7.10-10.13.4.1558-1.7.10-src" values="JDK_1_8" collectionTime="1521014683525" />
+      <project id="vue-simple-test" values="JDK_1_9" collectionTime="1520856810703" />
+      <project id="ForgeGradle-2.0.2" values="JDK_1_9" collectionTime="1521007734255" />
+      <project id="ForgeGradle-2.0.2-dec" values="JDK_1_9" collectionTime="1521007589668" />
+      <project id="vue-webpack-simple-test" values="JDK_1_9" collectionTime="1520854330625" />
+      <project id="javaWeb" values="JDK_1_8" collectionTime="1520578474933" />
+      <project id="untitled" values="JDK_1_8" collectionTime="1521424604856" />
+      <project id="vue2-happyfri-master" values="JDK_1_9" collectionTime="1520854330616" />
+      <project id="SpringTrial" values="JDK_1_8" collectionTime="1520561813860" />
+      <project id="vue-test" values="JDK_1_9" collectionTime="1520854330597" />
+      <project id="forge-1.8-11.14.4.1577-mdk" values="JDK_1_6,JDK_1_8" collectionTime="1520994718815" />
+      <project id="ironchest-1.7.10" values="JDK_1_8" collectionTime="1521019438559" />
+    </group>
+    <group name="frameworks">
+      <project id="jsp1" values="web" collectionTime="1520585473453" />
+      <project id="javaWeb" values="web" collectionTime="1520578474857" />
+      <project id="SpringTrial" values="web,Spring" collectionTime="1520561813720" />
+    </group>
+    <group name="vcs">
+      <project id="h5ai" values="Git" collectionTime="1517723497304" />
+      <project id="javaWeb" values="Git" collectionTime="1520578474857" />
+      <project id="Sheet" values="Git" collectionTime="1517495846514" />
+    </group>
+    <group name="vcs-stats">
+      <project id="ironchest" values="unversioned.files.count.0,ignored.files.count.0,vcs.roots.count.0,active.changelists.count.1,has.default.vcs.root.mapping.enabled" collectionTime="1520991430353" />
+      <project id="jsp1" values="active.changelists.count.1,vcs.roots.count.0,has.default.vcs.root.mapping.enabled,unversioned.files.count.0,ignored.files.count.0" collectionTime="1520585473452" />
+      <project id="forge-1.7.10-10.13.4.1558-1.7.10-src" values="has.default.vcs.root.mapping.enabled,active.changelists.count.1,unversioned.files.count.0,ignored.files.count.0,vcs.roots.count.0" collectionTime="1521014683428" />
+      <project id="vue-simple-test" values="has.default.vcs.root.mapping.enabled,unversioned.files.count.0,active.changelists.count.1,ignored.files.count.0,vcs.roots.count.0" collectionTime="1520856810689" />
+      <project id="ForgeGradle-2.0.2" values="ignored.files.count.0,vcs.roots.count.0,active.changelists.count.1,has.default.vcs.root.mapping.enabled,unversioned.files.count.0" collectionTime="1521007734238" />
+      <project id="ForgeGradle-2.0.2-dec" values="active.changelists.count.1,vcs.roots.count.0,has.default.vcs.root.mapping.enabled,unversioned.files.count.0,ignored.files.count.0" collectionTime="1521007589600" />
+      <project id="vue-webpack-simple-test" values="ignored.files.count.0,unversioned.files.count.0,active.changelists.count.1,has.default.vcs.root.mapping.enabled,vcs.roots.count.0" collectionTime="1520854330618" />
+      <project id="javaWeb" values="active.changelists.count.1,ignored.files.count.2,has.default.vcs.root.mapping.disabled,vcs.roots.count.0,unversioned.files.count.0" collectionTime="1520578474857" />
+      <project id="untitled" values="unversioned.files.count.0,active.changelists.count.1,vcs.roots.count.0,has.default.vcs.root.mapping.enabled,ignored.files.count.0" collectionTime="1521424604711" />
+      <project id="vue2-happyfri-master" values="active.changelists.count.1,ignored.files.count.0,vcs.roots.count.0,unversioned.files.count.0,has.default.vcs.root.mapping.enabled" collectionTime="1520854330602" />
+      <project id="SpringTrial" values="vcs.roots.count.0,has.default.vcs.root.mapping.enabled,unversioned.files.count.0,active.changelists.count.1,ignored.files.count.0" collectionTime="1520561813716" />
+      <project id="vue-test" values="vcs.roots.count.0,unversioned.files.count.0,ignored.files.count.0,has.default.vcs.root.mapping.enabled,active.changelists.count.1" collectionTime="1520854330575" />
+      <project id="forge-1.8-11.14.4.1577-mdk" values="unversioned.files.count.0,has.default.vcs.root.mapping.enabled,vcs.roots.count.0,active.changelists.count.1,ignored.files.count.0" collectionTime="1520994718714" />
+      <project id="ironchest-1.7.10" values="unversioned.files.count.0,ignored.files.count.0,vcs.roots.count.0,active.changelists.count.1,has.default.vcs.root.mapping.enabled" collectionTime="1521019438466" />
+    </group>
+    <group name="composer.json">
+      <project id="h5ai" values="none" collectionTime="1517723497552" />
+      <project id="gateways" values="none" collectionTime="1517115217978" />
+      <project id="Sheet" values="none" collectionTime="1517495848059" />
+      <project id="_h5ai" values="none" collectionTime="1517668154494" />
+    </group>
+    <group name="run-configuration-type-temp">
+      <project id="untitled" values="Application" collectionTime="1521424604714" />
+      <project id="jsp1" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1520585473454" />
+      <project id="forge-1.8-11.14.4.1577-mdk" values="GradleRunConfiguration" collectionTime="1520994718715" />
+      <project id="ForgeGradle-2.0.2-dec" values="JavascriptDebugType" collectionTime="1521007589600" />
+    </group>
+    <group name="libraries">
+      <project id="jsp1" values="WebSocket" collectionTime="1520585473582" />
+      <project id="javaWeb" values="repository,struts2" collectionTime="1520578474925" />
+      <project id="SpringTrial" values="spring-mvc,spring,spring-ws" collectionTime="1520561813832" />
+    </group>
+    <group name="php-debug-skipped-paths">
+      <project id="h5ai" values="0" collectionTime="1517723497547" />
+      <project id="gateways" values="0" collectionTime="1517115217978" />
+      <project id="Sheet" values="0" collectionTime="1517495848033" />
+      <project id="_h5ai" values="0" collectionTime="1517668154489" />
+    </group>
+    <group name="spring">
+      <project id="SpringTrial" values="fileset_autodetect_com.intellij.spring.web.config.ServletFileSet,fileset_userConfiguredPerFacet_0,fileset_autodetect_com.intellij.spring.web.config.ServletFileSet" collectionTime="1520561814080" />
+    </group>
+    <group name="VCS Log 2">
+      <project id="h5ai" values="data.commit.count.1K+,data.users.count.50+,data.git.root.count.1,data.branches.count.1+" collectionTime="1517723497330" />
+    </group>
+    <group name="deployment server">
+      <project id="SpringTrial" values="MOUNT" collectionTime="1520561814060" />
+      <project id="Sheet" values="SFTP" collectionTime="1517495847127" />
+    </group>
+    <group name="vcs-options">
+      <project id="ironchest" values="include.text.into.shelf.enabled,commit.before.check.code.smell.enabled,changelist.preselect.existing.disabled,commit.clear.initial.comment.disabled,perform.checkout.in.background.enabled,commit.before.optimize.imports.disabled,perform.rollback.in.background.disabled,commit.before.check.todo.enabled,offer.remove.empty.changelist.show_confirmation,perform.edit.in.background.enabled,commit.use.right.margin.enabled,commit.before.rearrange.disabled,commit.show.unversioned.enabled,show.changes.preview.disabled,offer.move.partially.committed.disabled,commit.before.check.code.cleanup.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.reformat.project.disabled,perform.update.in.background.enabled,perform.add_remove.in.background.enabled,commit.before.check.non.empty.comment.disabled,changelist.make.new.active.disabled,check.conflicts.in.background.disabled,perform.commit.in.background.enabled" collectionTime="1520991430353" />
+      <project id="gateways" values="commit.before.rearrange.disabled,offer.move.partially.committed.disabled,commit.before.reformat.project.disabled,commit.before.check.code.cleanup.disabled,commit.before.check.non.empty.comment.disabled,perform.commit.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.show.unversioned.enabled,check.conflicts.in.background.disabled,commit.use.right.margin.enabled,include.text.into.shelf.enabled,perform.edit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.optimize.imports.disabled,commit.clear.initial.comment.disabled,perform.update.in.background.enabled,perform.add_remove.in.background.enabled,show.changes.preview.disabled,changelist.make.new.active.disabled,perform.rollback.in.background.disabled,commit.before.check.code.smell.enabled,commit.before.check.todo.enabled,changelist.preselect.existing.disabled,perform.checkout.in.background.enabled" collectionTime="1517115217972" />
+      <project id="jsp1" values="perform.add_remove.in.background.enabled,changelist.make.new.active.disabled,include.text.into.shelf.enabled,commit.show.unversioned.enabled,perform.checkout.in.background.enabled,commit.clear.initial.comment.disabled,commit.before.optimize.imports.disabled,commit.before.check.non.empty.comment.disabled,commit.before.check.code.smell.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.cleanup.disabled,show.changes.preview.disabled,commit.before.rearrange.disabled,changelist.preselect.existing.disabled,check.conflicts.in.background.disabled,commit.use.right.margin.enabled,perform.commit.in.background.enabled,commit.before.reformat.project.disabled,perform.update.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.todo.enabled,perform.edit.in.background.enabled,perform.rollback.in.background.disabled,offer.move.partially.committed.disabled" collectionTime="1520585473451" />
+      <project id="forge-1.7.10-10.13.4.1558-1.7.10-src" values="perform.edit.in.background.enabled,perform.add_remove.in.background.enabled,commit.clear.initial.comment.disabled,show.changes.preview.disabled,commit.before.rearrange.disabled,changelist.preselect.existing.disabled,perform.commit.in.background.enabled,check.conflicts.in.background.disabled,perform.checkout.in.background.enabled,commit.before.check.code.smell.enabled,perform.rollback.in.background.disabled,perform.update.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.before.reformat.project.disabled,commit.before.check.non.empty.comment.disabled,commit.use.right.margin.enabled,commit.before.optimize.imports.disabled,include.text.into.shelf.enabled,offer.move.partially.committed.disabled,changelist.make.new.active.disabled,commit.show.unversioned.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.code.cleanup.disabled,commit.before.check.todo.enabled" collectionTime="1521014683426" />
+      <project id="vue-simple-test" values="commit.before.rearrange.disabled,perform.checkout.in.background.enabled,perform.rollback.in.background.disabled,commit.before.check.non.empty.comment.disabled,changelist.make.new.active.disabled,perform.edit.in.background.enabled,commit.before.check.todo.enabled,commit.clear.initial.comment.disabled,commit.show.unversioned.enabled,perform.update.in.background.enabled,include.text.into.shelf.enabled,show.changes.preview.disabled,commit.use.right.margin.enabled,commit.before.reformat.project.disabled,offer.move.partially.committed.disabled,check.conflicts.in.background.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.cleanup.disabled,perform.commit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,perform.add_remove.in.background.enabled,commit.before.check.code.smell.enabled,commit.before.optimize.imports.disabled,changelist.preselect.existing.disabled" collectionTime="1520856810689" />
+      <project id="ForgeGradle-2.0.2" values="commit.before.rearrange.disabled,changelist.make.new.active.disabled,check.conflicts.in.background.disabled,perform.commit.in.background.enabled,perform.edit.in.background.enabled,changelist.preselect.existing.disabled,perform.add_remove.in.background.enabled,commit.clear.initial.comment.disabled,commit.before.optimize.imports.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.cleanup.disabled,include.text.into.shelf.enabled,commit.before.reformat.project.disabled,perform.rollback.in.background.disabled,commit.show.unversioned.enabled,offer.move.partially.committed.disabled,commit.before.check.todo.enabled,commit.use.right.margin.enabled,commit.before.check.code.smell.enabled,perform.checkout.in.background.enabled,commit.before.check.non.empty.comment.disabled,offer.remove.empty.changelist.show_confirmation,perform.update.in.background.enabled,show.changes.preview.disabled" collectionTime="1521007734238" />
+      <project id="ForgeGradle-2.0.2-dec" values="commit.before.rearrange.disabled,perform.edit.in.background.enabled,commit.before.check.non.empty.comment.disabled,changelist.preselect.existing.disabled,commit.before.check.code.cleanup.disabled,show.changes.preview.disabled,perform.update.in.background.enabled,perform.checkout.in.background.enabled,changelist.make.new.active.disabled,include.text.into.shelf.enabled,commit.before.optimize.imports.disabled,offer.move.partially.committed.disabled,perform.commit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.todo.enabled,commit.clear.initial.comment.disabled,commit.before.reformat.project.disabled,commit.before.check.code.smell.enabled,check.conflicts.in.background.disabled,perform.rollback.in.background.disabled,perform.add_remove.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.show.unversioned.enabled,commit.use.right.margin.enabled" collectionTime="1521007589599" />
+      <project id="vue-webpack-simple-test" values="show.changes.preview.disabled,changelist.make.new.active.disabled,commit.use.right.margin.enabled,commit.before.rearrange.disabled,commit.before.check.todo.enabled,commit.before.reformat.project.disabled,check.conflicts.in.background.disabled,perform.commit.in.background.enabled,offer.remove.empty.changelist.show_confirmation,changelist.preselect.existing.disabled,commit.before.check.non.empty.comment.disabled,commit.show.unversioned.enabled,perform.update.in.background.enabled,offer.move.partially.committed.disabled,perform.rollback.in.background.disabled,commit.clear.initial.comment.disabled,include.text.into.shelf.enabled,perform.edit.in.background.enabled,commit.before.check.code.cleanup.disabled,commit.before.check.code.smell.enabled,commit.before.optimize.imports.disabled,perform.checkout.in.background.enabled,offer.move.failed.committed.do_nothing_silently,perform.add_remove.in.background.enabled" collectionTime="1520854330618" />
+      <project id="h5ai" values="include.text.into.shelf.enabled,perform.update.in.background.enabled,perform.add_remove.in.background.enabled,offer.remove.empty.changelist.show_confirmation,changelist.make.new.active.disabled,perform.rollback.in.background.disabled,commit.show.unversioned.enabled,commit.before.check.non.empty.comment.disabled,show.changes.preview.disabled,perform.checkout.in.background.enabled,perform.commit.in.background.enabled,changelist.preselect.existing.disabled,commit.before.check.todo.enabled,commit.before.optimize.imports.disabled,commit.before.rearrange.disabled,offer.move.partially.committed.disabled,commit.clear.initial.comment.disabled,perform.edit.in.background.enabled,offer.move.failed.committed.do_nothing_silently,commit.use.right.margin.enabled,commit.before.check.code.smell.enabled,commit.before.check.code.cleanup.disabled,commit.before.reformat.project.disabled,check.conflicts.in.background.disabled" collectionTime="1517723497305" />
+      <project id="javaWeb" values="commit.before.check.code.cleanup.disabled,perform.rollback.in.background.disabled,commit.before.check.todo.enabled,changelist.make.new.active.disabled,commit.before.check.code.smell.enabled,offer.remove.empty.changelist.show_confirmation,perform.add_remove.in.background.enabled,include.text.into.shelf.enabled,commit.before.reformat.project.disabled,perform.edit.in.background.enabled,commit.clear.initial.comment.disabled,changelist.preselect.existing.disabled,commit.before.rearrange.disabled,commit.use.right.margin.enabled,perform.commit.in.background.enabled,commit.show.unversioned.enabled,commit.before.optimize.imports.disabled,offer.move.failed.committed.do_nothing_silently,perform.checkout.in.background.enabled,check.conflicts.in.background.disabled,perform.update.in.background.enabled,show.changes.preview.disabled,offer.move.partially.committed.disabled,commit.before.check.non.empty.comment.disabled" collectionTime="1520578474857" />
+      <project id="vue2-happyfri-master" values="commit.clear.initial.comment.disabled,check.conflicts.in.background.disabled,commit.before.reformat.project.disabled,include.text.into.shelf.enabled,show.changes.preview.disabled,commit.use.right.margin.enabled,perform.commit.in.background.enabled,commit.before.optimize.imports.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.check.non.empty.comment.disabled,perform.rollback.in.background.disabled,perform.checkout.in.background.enabled,commit.show.unversioned.enabled,changelist.preselect.existing.disabled,commit.before.check.code.cleanup.disabled,offer.move.partially.committed.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.code.smell.enabled,commit.before.check.todo.enabled,changelist.make.new.active.disabled,perform.add_remove.in.background.enabled,perform.update.in.background.enabled,perform.edit.in.background.enabled,commit.before.rearrange.disabled" collectionTime="1520854330602" />
+      <project id="SpringTrial" values="offer.remove.empty.changelist.show_confirmation,commit.before.check.code.cleanup.disabled,commit.before.check.code.smell.enabled,offer.move.failed.committed.do_nothing_silently,commit.use.right.margin.enabled,perform.commit.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.rearrange.disabled,changelist.make.new.active.disabled,offer.move.partially.committed.disabled,commit.before.reformat.project.disabled,check.conflicts.in.background.disabled,show.changes.preview.disabled,perform.edit.in.background.enabled,commit.show.unversioned.enabled,perform.rollback.in.background.disabled,perform.checkout.in.background.enabled,commit.before.optimize.imports.disabled,include.text.into.shelf.enabled,changelist.preselect.existing.disabled,perform.add_remove.in.background.enabled,commit.clear.initial.comment.disabled,commit.before.check.todo.enabled,perform.update.in.background.enabled" collectionTime="1520561813716" />
+      <project id="vue-test" values="perform.commit.in.background.enabled,perform.rollback.in.background.disabled,commit.clear.initial.comment.disabled,changelist.make.new.active.disabled,offer.move.failed.committed.do_nothing_silently,commit.before.check.todo.enabled,include.text.into.shelf.enabled,perform.edit.in.background.enabled,perform.update.in.background.enabled,commit.show.unversioned.enabled,commit.before.rearrange.disabled,commit.before.check.code.smell.enabled,commit.use.right.margin.enabled,offer.move.partially.committed.disabled,changelist.preselect.existing.disabled,offer.remove.empty.changelist.show_confirmation,check.conflicts.in.background.disabled,perform.checkout.in.background.enabled,commit.before.check.code.cleanup.disabled,commit.before.reformat.project.disabled,commit.before.optimize.imports.disabled,perform.add_remove.in.background.enabled,show.changes.preview.disabled,commit.before.check.non.empty.comment.disabled" collectionTime="1520854330574" />
+      <project id="ironchest-1.7.10" values="perform.commit.in.background.enabled,changelist.preselect.existing.disabled,commit.before.check.code.cleanup.disabled,commit.before.check.todo.enabled,check.conflicts.in.background.disabled,commit.before.optimize.imports.disabled,commit.before.rearrange.disabled,perform.checkout.in.background.enabled,commit.show.unversioned.enabled,offer.move.failed.committed.do_nothing_silently,offer.move.partially.committed.disabled,commit.before.check.non.empty.comment.disabled,perform.update.in.background.enabled,include.text.into.shelf.enabled,perform.edit.in.background.enabled,perform.rollback.in.background.disabled,commit.clear.initial.comment.disabled,commit.before.reformat.project.disabled,commit.use.right.margin.enabled,perform.add_remove.in.background.enabled,changelist.make.new.active.disabled,offer.remove.empty.changelist.show_confirmation,show.changes.preview.disabled,commit.before.check.code.smell.enabled" collectionTime="1521019438466" />
+      <project id="Sheet" values="perform.rollback.in.background.disabled,perform.edit.in.background.enabled,commit.before.check.code.smell.enabled,offer.move.failed.committed.do_nothing_silently,show.changes.preview.enabled,commit.before.rearrange.disabled,commit.before.check.todo.enabled,perform.commit.in.background.enabled,check.conflicts.in.background.disabled,commit.show.unversioned.enabled,changelist.make.new.active.disabled,commit.before.check.non.empty.comment.disabled,offer.move.partially.committed.disabled,perform.update.in.background.enabled,perform.add_remove.in.background.enabled,perform.checkout.in.background.enabled,changelist.preselect.existing.disabled,commit.before.reformat.project.disabled,offer.remove.empty.changelist.show_confirmation,commit.before.optimize.imports.disabled,commit.before.check.code.cleanup.disabled,commit.use.right.margin.enabled,commit.clear.initial.comment.disabled,include.text.into.shelf.enabled" collectionTime="1517495846516" />
+      <project id="_h5ai" values="commit.before.check.code.smell.enabled,offer.move.partially.committed.disabled,commit.before.check.todo.enabled,show.changes.preview.disabled,offer.move.failed.committed.do_nothing_silently,perform.checkout.in.background.enabled,commit.show.unversioned.enabled,commit.before.rearrange.disabled,commit.before.check.code.cleanup.disabled,offer.remove.empty.changelist.show_confirmation,perform.update.in.background.enabled,perform.rollback.in.background.disabled,commit.before.optimize.imports.disabled,include.text.into.shelf.enabled,perform.commit.in.background.enabled,perform.edit.in.background.enabled,perform.add_remove.in.background.enabled,check.conflicts.in.background.disabled,commit.before.reformat.project.disabled,commit.use.right.margin.enabled,commit.before.check.non.empty.comment.disabled,commit.clear.initial.comment.disabled,changelist.make.new.active.disabled,changelist.preselect.existing.disabled" collectionTime="1517668154018" />
+      <project id="forge-1.8-11.14.4.1577-mdk" values="commit.show.unversioned.enabled,offer.move.failed.committed.do_nothing_silently,check.conflicts.in.background.disabled,perform.add_remove.in.background.enabled,changelist.make.new.active.disabled,commit.before.reformat.project.disabled,perform.edit.in.background.enabled,show.changes.preview.disabled,offer.move.partially.committed.disabled,perform.rollback.in.background.disabled,commit.before.optimize.imports.disabled,changelist.preselect.existing.disabled,commit.before.check.code.cleanup.disabled,perform.update.in.background.enabled,commit.before.check.non.empty.comment.disabled,commit.before.rearrange.disabled,offer.remove.empty.changelist.show_confirmation,commit.clear.initial.comment.disabled,perform.commit.in.background.enabled,commit.before.check.todo.enabled,include.text.into.shelf.enabled,perform.checkout.in.background.enabled,commit.use.right.margin.enabled,commit.before.check.code.smell.enabled" collectionTime="1520994718714" />
+      <project id="untitled" values="check.conflicts.in.background.disabled,commit.show.unversioned.enabled,show.changes.preview.disabled,offer.remove.empty.changelist.show_confirmation,offer.move.partially.committed.disabled,perform.edit.in.background.enabled,perform.update.in.background.enabled,offer.move.failed.committed.do_nothing_silently,perform.rollback.in.background.disabled,commit.clear.initial.comment.disabled,perform.add_remove.in.background.enabled,commit.before.reformat.project.disabled,commit.use.right.margin.enabled,commit.before.check.code.cleanup.disabled,changelist.preselect.existing.disabled,commit.before.check.todo.enabled,commit.before.rearrange.disabled,commit.before.check.non.empty.comment.disabled,perform.commit.in.background.enabled,changelist.make.new.active.disabled,commit.before.optimize.imports.disabled,include.text.into.shelf.enabled,perform.checkout.in.background.enabled,commit.before.check.code.smell.enabled" collectionTime="1521424604709" />
+    </group>
+    <group name="php-language-level">
+      <project id="h5ai" values="5.6" collectionTime="1517723497545" />
+      <project id="gateways" values="5.6" collectionTime="1517115217978" />
+      <project id="Sheet" values="5.6" collectionTime="1517495848027" />
+      <project id="_h5ai" values="5.6" collectionTime="1517668154488" />
+    </group>
+    <group name="JavaScript Language Service">
+      <project id="vue-test" values="ESLintLanguageService,TypeScriptServerServiceImpl" collectionTime="1520854330598" />
+    </group>
+    <group name="Libraries by jars">
+      <project id="SpringTrial" values="spring-core_4.3.14.RELEASE,spring-ws_2.0.2.RELEASE,spring-mvc_4.3.14.RELEASE" collectionTime="1520561813860" />
+      <project id="javaWeb" values="freemarker_2.3.13,freemarker_2.3.13" collectionTime="1520578474933" />
+    </group>
+    <group name="php-interpreters">
+      <project id="h5ai" values="0" collectionTime="1517723497546" />
+      <project id="gateways" values="0" collectionTime="1517115217978" />
+      <project id="Sheet" values="0" collectionTime="1517495848027" />
+      <project id="_h5ai" values="0" collectionTime="1517668154488" />
+    </group>
+    <group name="Git">
+      <project id="ironchest" values="config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.update.type.BRANCH_DEFAULT,version.0.0.0-NULL,config.ssh.disabled,config.warn.about.crlf.enabled" collectionTime="1520991430369" />
+      <project id="gateways" values="config.repo.sync.NOT_DECIDED,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.force.push.enabled,config.save.policy.STASH,config.ssh.enabled,config.update.type.BRANCH_DEFAULT,version.0.0.0-NULL,config.push.autoupdate.disabled" collectionTime="1517115217975" />
+      <project id="jsp1" values="config.update.type.BRANCH_DEFAULT,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,version.0.0.0-NULL,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.ssh.disabled,config.warn.about.crlf.enabled,config.save.policy.STASH,config.warn.about.detached.enabled" collectionTime="1520585473591" />
+      <project id="forge-1.7.10-10.13.4.1558-1.7.10-src" values="config.ssh.disabled,version.0.0.0-NULL,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH" collectionTime="1521014683525" />
+      <project id="vue-simple-test" values="config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.save.policy.STASH,version.0.0.0-NULL,config.cherry-pick.autocommit.disabled,config.force.push.enabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.ssh.disabled,config.update.type.BRANCH_DEFAULT" collectionTime="1520856810703" />
+      <project id="ForgeGradle-2.0.2" values="config.force.push.enabled,config.ssh.disabled,config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,version.0.0.0-NULL,config.cherry-pick.autocommit.disabled" collectionTime="1521007734256" />
+      <project id="ForgeGradle-2.0.2-dec" values="config.warn.about.detached.enabled,config.ssh.disabled,config.force.push.enabled,config.save.policy.STASH,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,version.0.0.0-NULL,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.push.autoupdate.disabled" collectionTime="1521007589668" />
+      <project id="vue-webpack-simple-test" values="config.save.policy.STASH,config.warn.about.crlf.enabled,version.0.0.0-NULL,config.push.update.all.roots.enabled,config.force.push.enabled,config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.ssh.disabled,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED" collectionTime="1520854330626" />
+      <project id="h5ai" values="config.save.policy.STASH,data.remote.servers.github.com.1,config.repo.sync.NOT_DECIDED,data.remotes.in.project.1,config.force.push.enabled,version.2.15.1-CYGWIN,config.ssh.disabled,config.warn.about.detached.enabled,config.push.autoupdate.disabled,data.remote.branches.count.1,config.push.update.all.roots.enabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,data.local.branches.count.1" collectionTime="1517723497342" />
+      <project id="javaWeb" values="config.push.autoupdate.disabled,config.warn.about.detached.enabled,config.force.push.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,version.0.0.0-NULL,config.cherry-pick.autocommit.disabled,config.update.type.BRANCH_DEFAULT,config.ssh.disabled,config.save.policy.STASH,config.push.update.all.roots.enabled" collectionTime="1520578474933" />
+      <project id="vue2-happyfri-master" values="config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,version.0.0.0-NULL,config.cherry-pick.autocommit.disabled,config.ssh.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.force.push.enabled" collectionTime="1520854330616" />
+      <project id="SpringTrial" values="config.save.policy.STASH,config.push.autoupdate.disabled,config.warn.about.detached.enabled,version.0.0.0-NULL,config.update.type.BRANCH_DEFAULT,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.ssh.disabled,config.force.push.enabled" collectionTime="1520561813864" />
+      <project id="vue-test" values="config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,version.0.0.0-NULL,config.update.type.BRANCH_DEFAULT,config.ssh.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.detached.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1520854330597" />
+      <project id="ironchest-1.7.10" values="config.update.type.BRANCH_DEFAULT,config.force.push.enabled,version.0.0.0-NULL,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.ssh.disabled,config.push.update.all.roots.enabled,config.save.policy.STASH,config.warn.about.detached.enabled" collectionTime="1521019438560" />
+      <project id="Sheet" values="config.ssh.disabled,config.save.policy.STASH,config.push.autoupdate.disabled,config.repo.sync.DONT_SYNC,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,data.remote.branches.count.2+,data.local.branches.count.2+,data.remotes.in.project.1,config.force.push.enabled,version.2.15.1-CYGWIN,config.warn.about.detached.enabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled" collectionTime="1517495846630" />
+      <project id="_h5ai" values="config.force.push.enabled,config.warn.about.crlf.enabled,config.cherry-pick.autocommit.disabled,config.save.policy.STASH,config.update.type.BRANCH_DEFAULT,version.0.0.0-NULL,config.ssh.disabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled" collectionTime="1517668154036" />
+      <project id="forge-1.8-11.14.4.1577-mdk" values="config.push.update.all.roots.enabled,config.repo.sync.NOT_DECIDED,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled,config.update.type.BRANCH_DEFAULT,config.ssh.disabled,config.save.policy.STASH,version.0.0.0-NULL,config.warn.about.detached.enabled,config.force.push.enabled,config.push.autoupdate.disabled" collectionTime="1520994718815" />
+      <project id="untitled" values="config.ssh.disabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.detached.enabled,config.push.update.all.roots.enabled,config.warn.about.crlf.enabled,config.force.push.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,version.0.0.0-NULL,config.repo.sync.NOT_DECIDED" collectionTime="1521424604857" />
+    </group>
+    <group name="Docker Integration">
+      <project id="h5ai" values="docker.view.total,docker.fileType.dockerfile.patterns.1,docker.runConfigs.dockerfile 0,docker.accounts.registry 0,docker.runConfigs.total 0,docker.runConfigs.entrypoint 0,docker.runConfigs.command 0,docker.fileType.dockerfile.patterns,docker.view.available,docker.runConfigs.total.0,docker.runConfigs.jsonFile 0,docker.accounts.total.0,docker.accounts.machines 0,docker.runConfigs.publishAllPorts 0,docker.accounts.registry.0,docker.runConfigs.image 0,docker.runConfigs.compose 0,docker.runConfigs.debug 0,docker.accounts.total 0" collectionTime="1517723497581" />
+      <project id="gateways" values="docker.view.available,docker.runConfigs.command 0,docker.runConfigs.debug 0,docker.fileType.dockerfile.patterns.1,docker.accounts.total.0,docker.fileType.dockerfile.patterns,docker.accounts.registry.0,docker.runConfigs.publishAllPorts 0,docker.accounts.machines 0,docker.runConfigs.compose 0,docker.runConfigs.dockerfile 0,docker.runConfigs.image 0,docker.accounts.total 0,docker.accounts.registry 0,docker.runConfigs.entrypoint 0,docker.runConfigs.total 0,docker.runConfigs.total.0,docker.runConfigs.jsonFile 0,docker.view.total" collectionTime="1517115217979" />
+      <project id="Sheet" values="docker.runConfigs.compose 0,docker.view.available,docker.runConfigs.total.0,docker.accounts.total 0,docker.accounts.registry.0,docker.fileType.dockerfile.patterns.1,docker.view.total,docker.runConfigs.debug 0,docker.accounts.machines 0,docker.runConfigs.dockerfile 0,docker.accounts.registry 0,docker.runConfigs.publishAllPorts 0,docker.runConfigs.command 0,docker.fileType.dockerfile.patterns,docker.runConfigs.jsonFile 0,docker.runConfigs.entrypoint 0,docker.runConfigs.image 0,docker.runConfigs.total 0,docker.accounts.total.0" collectionTime="1517495848228" />
+      <project id="_h5ai" values="docker.runConfigs.total 0,docker.accounts.registry 0,docker.fileType.dockerfile.patterns,docker.runConfigs.command 0,docker.view.total,docker.runConfigs.publishAllPorts 0,docker.runConfigs.image 0,docker.accounts.total.0,docker.runConfigs.dockerfile 0,docker.runConfigs.jsonFile 0,docker.accounts.machines 0,docker.fileType.dockerfile.patterns.1,docker.runConfigs.compose 0,docker.accounts.total 0,docker.runConfigs.debug 0,docker.accounts.registry.0,docker.view.available,docker.runConfigs.total.0,docker.runConfigs.entrypoint 0" collectionTime="1517668154565" />
+    </group>
+    <group name="JSDebugConfig">
+      <project id="ForgeGradle-2.0.2-dec" values="browser-default.preferredBrowser-null.no_mappings" collectionTime="1521007589671" />
+    </group>
+    <group name="composer sync settings">
+      <project id="h5ai" values="composer.json not set up" collectionTime="1517723497552" />
+      <project id="gateways" values="composer.json not set up" collectionTime="1517115217978" />
+      <project id="Sheet" values="composer.json not set up" collectionTime="1517495848059" />
+      <project id="_h5ai" values="composer.json not set up" collectionTime="1517668154495" />
+    </group>
+    <group name="remote-sdk-types-count">
+      <project id="h5ai" values="PHP 0" collectionTime="1517723497573" />
+      <project id="gateways" values="PHP 0" collectionTime="1517115217979" />
+      <project id="Sheet" values="PHP 0" collectionTime="1517495848145" />
+      <project id="_h5ai" values="PHP 0" collectionTime="1517668154536" />
+    </group>
+    <group name="php-custom-include-path">
+      <project id="h5ai" values="0" collectionTime="1517723497514" />
+      <project id="gateways" values="0" collectionTime="1517115217977" />
+      <project id="Sheet" values="0" collectionTime="1517495847899" />
+      <project id="_h5ai" values="0" collectionTime="1517668154438" />
+    </group>
+    <group name="javaScript Scope Usages">
+      <project id="ironchest" values="Project" collectionTime="1520991430369" />
+      <project id="gateways" values="Project" collectionTime="1517115217977" />
+      <project id="jsp1" values="Project" collectionTime="1520585473783" />
+      <project id="forge-1.7.10-10.13.4.1558-1.7.10-src" values="Project" collectionTime="1521014683743" />
+      <project id="vue-simple-test" values="Directory,Project" collectionTime="1520856810705" />
+      <project id="ForgeGradle-2.0.2" values="Project" collectionTime="1521007734258" />
+      <project id="ForgeGradle-2.0.2-dec" values="Project" collectionTime="1521007589670" />
+      <project id="vue-webpack-simple-test" values="Project,Directory" collectionTime="1520854330630" />
+      <project id="h5ai" values="Project" collectionTime="1517723497511" />
+      <project id="javaWeb" values="Project" collectionTime="1520578474935" />
+      <project id="vue2-happyfri-master" values="Directory,Project" collectionTime="1520854330616" />
+      <project id="SpringTrial" values="Project" collectionTime="1520561814060" />
+      <project id="vue-test" values="Project,Directory" collectionTime="1520854330598" />
+      <project id="ironchest-1.7.10" values="Project" collectionTime="1521019438566" />
+      <project id="Sheet" values="Project" collectionTime="1517495847130" />
+      <project id="_h5ai" values="Project" collectionTime="1517668154431" />
+      <project id="forge-1.8-11.14.4.1577-mdk" values="Project" collectionTime="1520994718818" />
+      <project id="untitled" values="Project" collectionTime="1521424605509" />
+    </group>
+    <group name="module type">
+      <project id="ironchest" values="JAVA_MODULE" collectionTime="1520991430353" />
+      <project id="gateways" values="WEB_MODULE" collectionTime="1517115217972" />
+      <project id="jsp1" values="JAVA_MODULE" collectionTime="1520585473453" />
+      <project id="forge-1.7.10-10.13.4.1558-1.7.10-src" values="JAVA_MODULE" collectionTime="1521014683428" />
+      <project id="vue-simple-test" values="JAVA_MODULE" collectionTime="1520856810689" />
+      <project id="ForgeGradle-2.0.2" values="JAVA_MODULE" collectionTime="1521007734238" />
+      <project id="ForgeGradle-2.0.2-dec" values="JAVA_MODULE" collectionTime="1521007589600" />
+      <project id="vue-webpack-simple-test" values="JAVA_MODULE" collectionTime="1520854330618" />
+      <project id="h5ai" values="WEB_MODULE" collectionTime="1517723497306" />
+      <project id="javaWeb" values="JAVA_MODULE" collectionTime="1520578474857" />
+      <project id="vue2-happyfri-master" values="JAVA_MODULE" collectionTime="1520854330602" />
+      <project id="SpringTrial" values="JAVA_MODULE" collectionTime="1520561813720" />
+      <project id="vue-test" values="JAVA_MODULE" collectionTime="1520854330575" />
+      <project id="ironchest-1.7.10" values="JAVA_MODULE" collectionTime="1521019438466" />
+      <project id="Sheet" values="WEB_MODULE" collectionTime="1517495846519" />
+      <project id="_h5ai" values="WEB_MODULE" collectionTime="1517668154018" />
+      <project id="forge-1.8-11.14.4.1577-mdk" values="JAVA_MODULE" collectionTime="1520994718714" />
+      <project id="untitled" values="JAVA_MODULE" collectionTime="1521424604713" />
+    </group>
+    <group name="jdbc-driver">
+      <project id="Sheet" values="com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver,com.mysql.jdbc.Driver" collectionTime="1517495847898" />
+    </group>
+    <group name="JavaScript versions">
+      <project id="ironchest" values="ECMAScript 5.1" collectionTime="1520991430369" />
+      <project id="gateways" values="ECMAScript 5.1" collectionTime="1517115217977" />
+      <project id="jsp1" values="ECMAScript 5.1" collectionTime="1520585473783" />
+      <project id="forge-1.7.10-10.13.4.1558-1.7.10-src" values="ECMAScript 5.1" collectionTime="1521014683743" />
+      <project id="vue-simple-test" values="ECMAScript 6" collectionTime="1520856810705" />
+      <project id="ForgeGradle-2.0.2" values="ECMAScript 5.1" collectionTime="1521007734258" />
+      <project id="ForgeGradle-2.0.2-dec" values="ECMAScript 5.1" collectionTime="1521007589670" />
+      <project id="vue-webpack-simple-test" values="ECMAScript 6" collectionTime="1520854330630" />
+      <project id="h5ai" values="ECMAScript 6" collectionTime="1517723497511" />
+      <project id="javaWeb" values="ECMAScript 5.1" collectionTime="1520578474935" />
+      <project id="vue2-happyfri-master" values="ECMAScript 6" collectionTime="1520854330616" />
+      <project id="SpringTrial" values="ECMAScript 5.1" collectionTime="1520561814060" />
+      <project id="vue-test" values="ECMAScript 6" collectionTime="1520854330598" />
+      <project id="ironchest-1.7.10" values="ECMAScript 5.1" collectionTime="1521019438566" />
+      <project id="Sheet" values="ECMAScript 5.1" collectionTime="1517495847131" />
+      <project id="_h5ai" values="ECMAScript 5.1" collectionTime="1517668154431" />
+      <project id="forge-1.8-11.14.4.1577-mdk" values="ECMAScript 5.1" collectionTime="1520994718818" />
+      <project id="untitled" values="ECMAScript 5.1" collectionTime="1521424605510" />
+    </group>
+    <group name="Spring MVC">
+      <project id="SpringTrial" values="fileset_webXml,fileset_webXml,viewResolvers_0,mvcModelsInProject_1" collectionTime="1520561814188" />
+    </group>
+    <group name="php-servers">
+      <project id="h5ai" values="0" collectionTime="1517723497516" />
+      <project id="gateways" values="0" collectionTime="1517115217977" />
+      <project id="Sheet" values="0" collectionTime="1517495847904" />
+      <project id="_h5ai" values="0" collectionTime="1517668154440" />
+    </group>
+    <group name="php-language-level-vs-runtime">
+      <project id="h5ai" values="Interpreter not installed" collectionTime="1517723497546" />
+      <project id="gateways" values="Interpreter not installed" collectionTime="1517115217978" />
+      <project id="Sheet" values="Interpreter not installed" collectionTime="1517495848027" />
+      <project id="_h5ai" values="Interpreter not installed" collectionTime="1517668154488" />
+    </group>
+    <group name="run-configuration-type">
+      <project id="jsp1" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1520585473454" />
+      <project id="forge-1.8-11.14.4.1577-mdk" values="Application,GradleRunConfiguration" collectionTime="1520994718715" />
+      <project id="javaWeb" values="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Local" collectionTime="1520578474857" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="18" />
+      <entry feature="JSDebugConfig.Debug.browser-default.preferredBrowser-null.no_mappings" count="17" />
+      <entry feature="JSDebugConfig.Run.browser-default.preferredBrowser-null.no_mappings" count="9" />
+      <entry feature="Npm.Packages.Install.Package.From.Package.Json" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="4" />
+      <entry feature="StripeButton[Docker].hidden" count="9" />
+      <entry feature="StripeButton[Version Control].shown" count="5" />
+      <entry feature="debugger.reload.classes" count="3" />
+      <entry feature="diff.DirDiffTableModel" count="1" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Debug" count="2" />
+      <entry feature="execute.#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory.Run" count="18" />
+      <entry feature="execute.Application.Coverage" count="1" />
+      <entry feature="execute.Application.Debug" count="7" />
+      <entry feature="execute.Application.Run" count="67" />
+      <entry feature="execute.ChromiumRemoteDebugType.Debug" count="1" />
+      <entry feature="execute.GradleRunConfiguration.Debug" count="3" />
+      <entry feature="execute.GradleRunConfiguration.Run" count="7" />
+      <entry feature="execute.JavascriptDebugType.Debug" count="17" />
+      <entry feature="execute.JavascriptDebugType.Run" count="9" />
+      <entry feature="git.branch.checkout.remote" count="1" />
+      <entry feature="ide.settings.Code Completion" count="2" />
+      <entry feature="ide.settings.Code Style" count="1" />
+      <entry feature="ide.settings.Console Font" count="2" />
+      <entry feature="ide.settings.Deployment" count="15" />
+      <entry feature="ide.settings.General" count="10" />
+      <entry feature="ide.settings.Git" count="3" />
+      <entry feature="ide.settings.Gradle" count="3" />
+      <entry feature="ide.settings.HTML" count="2" />
+      <entry feature="ide.settings.HTTP Proxy" count="1" />
+      <entry feature="ide.settings.Java" count="1" />
+      <entry feature="ide.settings.Keymap" count="9" />
+      <entry feature="ide.settings.SQL Dialects" count="1" />
+      <entry feature="ide.settings.Terminal" count="7" />
+      <entry feature="ide.settings.Tomcat Server" count="1" />
+      <entry feature="ide.settings.VCS" count="1" />
+      <entry feature="idea.caches.invalidated" count="1" />
+      <entry feature="ideaapp.started" count="84" />
+      <entry feature="project.view.pane.PackagesPane" count="1" />
+      <entry feature="project.view.pane.ProjectPane" count="4" />
+      <entry feature="project.view.pane.Scope.Project Files" count="4" />
+      <entry feature="project.view.pane.Scratches" count="1" />
+      <entry feature="swing-designer.edit" count="58" />
+      <entry feature="swing-designer.open" count="6" />
+      <entry feature="terminal.win" count="74" />
+      <entry feature="uml.ShowDiagram.DATABASE" count="8" />
+      <entry feature="vcs.log.GraphNodeClick" count="1" />
+      <entry feature="vcs.log.Refresh" count="13" />
+      <entry feature="welcome.screen.WelcomeScreen.Configure" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="9" />
+      <entry feature="welcome.screen.WelcomeScreen.GetFromVcs" count="2" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="2" />
+    </counts>
+  </component>
+</application>

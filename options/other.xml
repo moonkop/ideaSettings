@@ -1,0 +1,15 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="D:/Program Files/node-v8.9.4-win-x64/node.exe">
+      <version-cache version="8.9.4" last-modified="1514947795172" />
+      <npm-package value="D:/Program Files/node-v8.9.4-win-x64/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FIELD" value="true" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="MOVE_PREVIEW_USAGES" value="false" />
+  </component>
+</application>
