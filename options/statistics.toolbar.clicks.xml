@@ -1,8 +1,9 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
-      <entry action="$Undo@MainToolbar" count="1" />
-      <entry action="Back@MainToolbar" count="4" />
+      <entry action="$Redo@MainToolbar" count="1" />
+      <entry action="$Undo@MainToolbar" count="2" />
+      <entry action="Back@MainToolbar" count="5" />
       <entry action="CompileDirty@MainToolbar" count="16" />
       <entry action="CompileDirty@NavBarToolbar" count="4" />
       <entry action="Console.Jdbc.ChooseConsole@unknown" count="1" />
@@ -14,11 +15,13 @@
       <entry action="Console.TableResult.Reload@EditorToolbar" count="120" />
       <entry action="Console.TableResult.Submit@EditorToolbar" count="45" />
       <entry action="Console.Transaction.TxSettings@unknown" count="1" />
+      <entry action="Coverage@MainToolbar" count="1" />
       <entry action="Database.Settings@EditorToolbar" count="2" />
-      <entry action="DatabaseView.AddActionGroupPopup@ProjectViewToolbar" count="9" />
+      <entry action="DatabaseView.AddActionGroupPopup@ProjectViewToolbar" count="12" />
+      <entry action="DatabaseView.CloseConnectionAction@ProjectViewToolbar" count="1" />
       <entry action="DatabaseView.PropertiesAction@ProjectViewToolbar" count="1" />
       <entry action="DatabaseView.SynchronizeAction@ProjectViewToolbar" count="10" />
-      <entry action="Debug@MainToolbar" count="7" />
+      <entry action="Debug@MainToolbar" count="53" />
       <entry action="Debug@NavBarToolbar" count="11" />
       <entry action="ExternalSystem.AttachProject@Gradle View Toolbar" count="6" />
       <entry action="ExternalSystem.DetachProject@Gradle View Toolbar" count="1" />
@@ -26,6 +29,7 @@
       <entry action="ExternalSystem.ShowSettings@Gradle View Toolbar" count="6" />
       <entry action="FileChooser.GotoDesktop@FileChooserDialog" count="2" />
       <entry action="FileChooser.NewFolder@FileChooserDialog" count="2" />
+      <entry action="ForceStepInto@DebuggerToolbar" count="10" />
       <entry action="Forward@MainToolbar" count="3" />
       <entry action="Gradle.ExecuteTask@Gradle View Toolbar" count="17" />
       <entry action="Gradle.ToggleOfflineAction@Gradle View Toolbar" count="10" />
@@ -33,21 +37,26 @@
       <entry action="Jdbc.OpenEditor.DDL@ProjectViewToolbar" count="2" />
       <entry action="Jdbc.OpenEditor.Grid.DDL@unknown" count="1" />
       <entry action="Replace@MainToolbar" count="1" />
+      <entry action="Rerun@DebuggerToolbar" count="10" />
       <entry action="Rerun@RunnerToolbar" count="1" />
-      <entry action="Run@MainToolbar" count="46" />
+      <entry action="Resume@DebuggerToolbar" count="42" />
+      <entry action="Run@MainToolbar" count="212" />
       <entry action="Run@NavBarToolbar" count="4" />
       <entry action="SaveAll@MainToolbar" count="8" />
+      <entry action="ShowExecutionPoint@DebuggerToolbar" count="10" />
       <entry action="ShowProjectStructureSettings@MainToolbar" count="5" />
       <entry action="ShowSettings@MainToolbar" count="3" />
-      <entry action="StepOver@DebuggerToolbar" count="29" />
-      <entry action="Stop@DebuggerToolbar" count="1" />
-      <entry action="Stop@MainToolbar" count="7" />
+      <entry action="StepInto@DebuggerToolbar" count="55" />
+      <entry action="StepOver@DebuggerToolbar" count="77" />
+      <entry action="Stop@DebuggerToolbar" count="3" />
+      <entry action="Stop@MainToolbar" count="83" />
       <entry action="Stop@NavBarToolbar" count="1" />
-      <entry action="Stop@RunnerToolbar" count="13" />
+      <entry action="Stop@RunnerToolbar" count="15" />
       <entry action="Synchronize@MainToolbar" count="17" />
       <entry action="UsageView.Rerun@UsageViewToolbar" count="1" />
       <entry action="Vcs.Log.QuickSettings@Vcs.Log.Toolbar" count="1" />
       <entry action="Vcs.Log.Refresh@Vcs.Log.Toolbar" count="13" />
+      <entry action="XDebugger.NewWatch@DebuggerToolbar" count="1" />
       <entry action="com.intellij.build.CompositeView$SwitchViewAction@BuildView" count="1" />
       <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$EditDocumentationSourceAction@JavadocToolbar" count="1" />
       <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$MyShowSettingsAction@JavadocInplaceSettings" count="2" />
@@ -55,7 +64,9 @@
       <entry action="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction@DiffToolbar" count="5" />
       <entry action="com.intellij.diff.impl.DiffRequestProcessor$MyPrevDifferenceAction@DiffToolbar" count="10" />
       <entry action="com.intellij.diff.merge.MergeRequestProcessor$MyNextDifferenceAction@DiffToolbar" count="2" />
+      <entry action="com.intellij.execution.configurations.CommandLineState$PauseOutputAction@RunnerToolbar" count="6" />
       <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@BuildView" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="1" />
       <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="3" />
       <entry action="com.intellij.find.SearchTextArea$ShowHistoryAction@unknown" count="2" />
       <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="4" />
@@ -65,7 +76,10 @@
       <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="7" />
       <entry action="com.intellij.find.impl.FindPopupPanel$MyShowFilterPopupAction@unknown" count="7" />
       <entry action="com.intellij.ide.actions.ExportToTextFileToolbarAction@UsageViewToolbar" count="1" />
+      <entry action="com.intellij.ide.actions.NextOccurenceToolbarAction@DebuggerToolbar" count="2" />
+      <entry action="com.intellij.ide.actions.PreviousOccurenceToolbarAction@DebuggerToolbar" count="2" />
       <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="3" />
+      <entry action="com.intellij.ide.structureView.newStructureView.TreeActionWrapper@StructureViewToolbar" count="19" />
       <entry action="com.intellij.lang.ant.config.explorer.AntExplorer$AddAction@AntExplorerToolbar" count="1" />
       <entry action="com.intellij.openapi.diff.impl.dir.actions.SynchronizeDiff@DirDiff" count="1" />
       <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$8@Keymap" count="1" />
@@ -73,8 +87,11 @@
       <entry action="com.intellij.openapi.vcs.changes.ui.ChangesBrowserBase$MyShowDiffAction@ChangesBrowser" count="2" />
       <entry action="com.intellij.openapi.vcs.ex.RollbackLineStatusRangeAction@toolbar" count="8" />
       <entry action="com.intellij.openapi.vcs.ex.ShowLineStatusRangeDiffAction@toolbar" count="2" />
-      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="18" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="19" />
+      <entry action="com.intellij.ui.AutoScrollFromSourceHandler$AutoScrollFromSourceAction@StructureViewToolbar" count="3" />
       <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="70" />
+      <entry action="com.intellij.ui.treeStructure.actions.CollapseAllAction@StructureViewToolbar" count="2" />
+      <entry action="com.intellij.ui.treeStructure.actions.ExpandAllAction@StructureViewToolbar" count="2" />
       <entry action="com.intellij.usages.impl.PreviewUsageAction@UsageViewToolbar" count="1" />
       <entry action="com.intellij.usages.impl.UsageGroupingRuleProviderImpl$GroupByScopeAction@UsageViewToolbar" count="2" />
       <entry action="org.jetbrains.plugins.terminal.TerminalView$CloseSession@Terminal" count="1" />

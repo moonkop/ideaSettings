@@ -9,7 +9,7 @@
     <location key="#Deployment.0.0.1920.1080" x="674" y="127" />
     <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="61" y="288" />
     <location key="find.popup.0.0.1920.1080" x="589" y="95" />
-    <location key="WELCOME_SCREEN.0.0.1920.1080" x="1239" y="687" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="426" />
     <location key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.0.0.1920.1080" x="763" y="350" />
     <location key="NewPhpFileDialog.0.0.1920.1080" x="776" y="445" />
     <location key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog.0.0.1920.1080" x="739" y="379" />
@@ -45,12 +45,19 @@
     <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="586" y="264" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080" x="646" y="153" />
     <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080" x="701" y="133" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="690" y="273" />
+    <location key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog.0.0.1920.1080" x="664" y="180" />
+    <location key="#com.intellij.refactoring.memberPushDown.PushDownDialog.0.0.1920.1080" x="662" y="296" />
+    <location key="#xdebugger.evaluate.0.0.1920.1080" x="837" y="267" />
+    <location key="#Customize_Data_Views.0.0.1920.1080" x="625" y="227" />
+    <location key="#com.intellij.codeInsight.daemon.impl.quickfix.LocateLibraryDialog.0.0.1920.1080" x="787" y="427" />
+    <location key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog.0.0.1920.1080" x="668" y="235" />
     <size key="#Deployment.0.0.1920.1080" width="816" height="724" />
     <size key="javadoc.popup.0.0.1920.1080" width="419" height="155" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="275" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="275" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="275" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="275" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="0" height="0" />
     <size key="find.popup.0.0.1920.1080" width="893" height="955" />
     <size key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.0.0.1920.1080" width="670" height="654" />
     <size key="GridCell.Tab.1.left.0.0.1920.1080" width="914" height="333" />
@@ -81,5 +88,7 @@
     <size key="GridCell.Tab.-1.right.0.0.1920.1080" width="1876" height="333" />
     <size key="GridCell.Tab.-1.bottom.0.0.1920.1080" width="1876" height="333" />
     <size key="NewModule_or_Project.wizard.0.0.1920.1080" width="897" height="606" />
+    <size key="#Customize_Data_Views.0.0.1920.1080" width="669" height="615" />
+    <size key="DebuggerActiveHint.0.0.1920.1080" width="452" height="444" />
   </component>
 </application>
