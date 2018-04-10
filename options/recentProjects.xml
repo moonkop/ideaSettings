@@ -2,7 +2,19 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="D:/WorkSpace/Spring" />
+        <option value="D:/WorkSpace/SSHTest" />
+        <option value="D:/WorkSpace/BloodBank" />
+        <option value="$USER_HOME$/IdeaProjects/SpringTrial" />
+        <option value="D:/WorkSpace/javawebProjectTest" />
+        <option value="D:/WorkSpace/mavenTrial" />
+        <option value="D:/WorkSpace/_321" />
+        <option value="$USER_HOME$/Desktop/books/books" />
+        <option value="$USER_HOME$/Desktop/books" />
+        <option value="D:/WorkSpace/javaWeb-master" />
+        <option value="D:/WorkSpace/JF_Exam/test" />
         <option value="D:/WorkSpace/Tetris-Swing-master" />
+        <option value="$USER_HOME$/Desktop/com.example.t2048" />
         <option value="$USER_HOME$/Desktop/Tetris-Swing-master" />
         <option value="D:/WorkSpace/untitled" />
         <option value="$USER_HOME$/Desktop/untitled" />
@@ -30,15 +42,17 @@
         <option value="$USER_HOME$/Desktop/Servlet-master/Servlet-master/servlet" />
         <option value="$USER_HOME$/Desktop/javaWeb-master" />
         <option value="$USER_HOME$/IdeaProjects/JavaWebTrial" />
-        <option value="$USER_HOME$/IdeaProjects/SpringTrial" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:/WorkSpace/Tetris-Swing-master" />
+        <option value="D:/WorkSpace/javawebProjectTest" />
+        <option value="D:/WorkSpace/BloodBank" />
+        <option value="D:/WorkSpace/SSHTest" />
+        <option value="D:/WorkSpace/Spring" />
       </list>
     </option>
-    <option name="lastPath" value="D:/WorkSpace/Tetris-Swing-master" />
+    <option name="lastPath" value="D:/WorkSpace/Spring" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -127,6 +141,39 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1522153800927" />
               <option name="buildTimestamp" value="1517264905815" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/books">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522805605160" />
+              <option name="buildTimestamp" value="1517264916332" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/books/books">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522821966439" />
+              <option name="buildTimestamp" value="1517264895039" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/com.example.t2048">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522405888094" />
+              <option name="buildTimestamp" value="1517264889832" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -224,8 +271,8 @@
               <option name="build" value="IU-173.4548.28" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1520575255212" />
-              <option name="buildTimestamp" value="1517264907285" />
+              <option name="projectOpenTimestamp" value="1523340675719" />
+              <option name="buildTimestamp" value="1517264902042" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -251,6 +298,28 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="D:/WorkSpace/BloodBank">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523361807410" />
+              <option name="buildTimestamp" value="1517264902042" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/JF_Exam/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522675789231" />
+              <option name="buildTimestamp" value="1517264933955" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:/WorkSpace/ReactTutorial">
           <value>
             <RecentProjectMetaInfo>
@@ -262,14 +331,80 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="D:/WorkSpace/SSHTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523361807410" />
+              <option name="buildTimestamp" value="1517264902042" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/Spring">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523361807410" />
+              <option name="buildTimestamp" value="1517264902042" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:/WorkSpace/Tetris-Swing-master">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-173.4548.28" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1522294340799" />
-              <option name="buildTimestamp" value="1517264913233" />
+              <option name="projectOpenTimestamp" value="1522673230154" />
+              <option name="buildTimestamp" value="1517264892230" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/_321">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523261208049" />
+              <option name="buildTimestamp" value="1517264904492" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/javaWeb-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522736413269" />
+              <option name="buildTimestamp" value="1517264928809" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/javawebProjectTest">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523361807410" />
+              <option name="buildTimestamp" value="1517264902042" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/mavenTrial">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523322178154" />
+              <option name="buildTimestamp" value="1517264902042" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -363,6 +498,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastProjectLocation" value="$USER_HOME$/Desktop" />
+    <option name="lastProjectLocation" value="D:/WorkSpace" />
   </component>
 </application>

@@ -19,9 +19,9 @@
       </component>
       <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="database.main" />
+        <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-        <property name="last_opened_file_path" value="D:/WorkSpace/ReactTutorial" />
+        <property name="last_opened_file_path" value="D:/WorkSpace/JF_Exam" />
       </component>
       <component name="RunManager">
         <configuration default="true" type="Applet" factoryName="Applet">
@@ -105,8 +105,27 @@
           <predefined_log_file id="idea.log" enabled="true" />
         </configuration>
       </component>
+      <component name="SvnConfiguration">
+        <configuration>C:\Users\moonkop\AppData\Roaming\Subversion</configuration>
+      </component>
       <component name="VcsContentAnnotationSettings">
         <option name="myLimit" value="2678400000" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
       </component>
     </defaultProject>
   </component>

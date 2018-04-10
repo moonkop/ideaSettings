@@ -5,6 +5,18 @@
       <npm-package value="D:/Program Files/node-v8.9.4-win-x64/node_modules/npm" />
     </local-interpreter>
   </component>
+  <component name="PersistenceGenerationSettings">
+    <option name="addToUnit" value="true" />
+    <option name="entitySuffix" value="Entry" />
+    <option name="generateColumnProperties" value="true" />
+    <option name="generateSeparateXml" value="true" />
+    <option name="preferPrimitiveTypes" value="false" />
+    <option name="ENTITY_SUFFIX" value="Entry" />
+    <option name="GENERATE_SEPARATE_XML" value="true" />
+    <option name="GENERATE_COLUMN_PROPERTIES" value="true" />
+    <option name="ADD_TO_UNIT" value="true" />
+    <option name="PREFER_PRIMITIVE_TYPES" value="false" />
+  </component>
   <component name="PhpRefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="true" />
     <option name="RENAME_SEARCH_NON_CODE_FOR_FIELD" value="true" />
@@ -15,5 +27,18 @@
     <option name="RENAME_INHERITORS" value="false" />
     <option name="RENAME_VARIABLES" value="false" />
     <option name="RENAME_TESTS" value="false" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://stuc3f4e1/svn/JF_exam/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://stuc3f4e1/svn/JF_exam/" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="C:\Program Files\TortoiseSVN\bin\svn.exe" />
   </component>
 </application>
