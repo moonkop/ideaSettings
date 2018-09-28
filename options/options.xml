@@ -1,46 +1,46 @@
 <application>
   <component name="PropertiesComponent">
     <property name="PhpStorm.InitialConfiguration" value="true" />
-    <property name="file.chooser.recent.files" value="D:/WorkSpace/Spring/lib/spring&#10;D:/WorkSpace/javawebProjectTest&#10;C:/Users/moonkop/Desktop/books/books/web&#10;C:/Program Files/Java/jdk1.8.0_144&#10;D:/WorkSpace/SSHTest/lib&#10;D:/WorkSpace/javaWeb-master&#10;D:/WorkSpace/JF_Exam&#10;C:/Program Files/TortoiseSVN/bin/svn.exe&#10;C:/Users/moonkop/Desktop/forge-1.8-11.14.4.1577-mdk/forge-1.8-11.14.4.1577-mdk.iml&#10;C:/Users/moonkop/.gradle&#10;C:/Users/moonkop/.android&#10;D:/WorkSpace/ReactTutorial&#10;D:/apache-tomcat-9.0.5/lib&#10;D:/apache-tomcat-9.0.5&#10;D:/apache-tomcat-9.0.5/webapps/Spring&#10;C:/Users/moonkop/IdeaProjects/untitled/untitled.iml&#10;D:/PotableTools/Git32/bin/bash.exe&#10;D:/WorkSpace/src/Sheet/model/FormEntry.php&#10;D:/PotableTools/Git32/bin/git.exe&#10;D:/WorkSpace/src/Sheet&#10;C:/Users/moonkop/Desktop&#10;G:/WorkSpace/env/id_rsa&#10;G:/WorkSpace/src/Sheet/model&#10;G:/WorkSpace/src/Sheet&#10;F:/WorkSpace/src/campus/manage/html/socialPractice/Form.html&#10;F:/WorkSpace/env/id_rsa&#10;F:/PotableTools/Git32/bin/bash.exe&#10;F:/PotableTools/Git32/bin/git.exe&#10;F:/WorkSpace/Settings/settings.jar" />
+    <property name="file.chooser.recent.files" value="D:/WorkSpace/HUAJI&#10;D:/WorkSpace/vue2-happyfri&#10;C:/Users/moonkop/Desktop&#10;D:/WorkSpace/reactTrial2&#10;D:/WorkSpace/JF_Exam/webapp/WEB-INF/jsp/manage/exam/list.jsp&#10;D:/WorkSpace/JF_Exam/webapp/WEB-INF/jsp/exam/student/list.jsp&#10;D:/WorkSpace/JF_Exam/webapp/dist/js/question-manage.js&#10;D:/WorkSpace/JF_Exam/sqldump/jf_exam_classroom.sql&#10;D:/WorkSpace/JF_Exam&#10;D:/WorkSpace/JF_Exam/webapp/assets&#10;D:/WorkSpace/SSHTest/web/WEB-INF&#10;D:/WorkSpace/JF_Exam/src/main/resources/mapping/SchoolVo.hbm.xml&#10;D:/WorkSpace/JF_Exam/webapp/WEB-INF/jsp/manage/classroom&#10;D:/WorkSpace/JF_Exam/jf_exam.iml&#10;D:/WorkSpace/SSHTest/pom.xml&#10;D:/WorkSpace/JF_Exam/webapp/templates/components/master.html&#10;D:/WorkSpace/JF_Exam/webapp/WEB-INF/web.xml&#10;D:/WorkSpace/JF_Exam/webapp&#10;D:/WorkSpace/jeecms8/WebContent/WEB-INF/lucene&#10;D:/WorkSpace/gittest&#10;D:/WorkSpace/Exam&#10;D:/Program Files/Git/bin/git.exe&#10;Z:/logs&#10;D:/WorkSpace/Exam/target/ROOT&#10;Z:/logs/catalina.2018-04-11.log&#10;D:/apache-tomcat-7.0.52&#10;D:/apache-tomcat-9.0.5&#10;D:/WorkSpace/Exam/target/JF_Exam&#10;Z:/&#10;D:/WorkSpace/Exam/target/JF_Exam.war" />
     <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
     <property name="ts.lib.d.ts.version" value="2.6.2" />
-    <property name="file.gist.reindex.count" value="1569" />
-    <property name="KEYMAP" value="comment&#10;show inten&#10;quick&#10;back&#10;next tab" />
-    <property name="selected.color.option.type" value="NOT_USED_ELEMENT_ATTRIBUTES" />
-    <property name="ColorChooser.RecentColors" value="80-131-90-255,,,149-149-149-255,,,200-200-200-255,,,191-191-191-255,,,146-146-146-255,,,151-151-151-255,,,255-69-40-255,,,255-89-77-255,,,64-222-237-255,,,241-83-48-255,,,25-14-12-255,,,255-102-85-255,,,170-57-44-255,,,245-165-159-255,,,170-144-147-255,,,42-87-42-255,,,13-27-13-255,,,72-143-72-255,,,10-66-19-255,,,168-168-168-255" />
+    <property name="file.gist.reindex.count" value="39762" />
+    <property name="KEYMAP" value="impl&#10;refactor&#10;basic&#10;method&#10;clip" />
+    <property name="selected.color.option.type" value="IDENTIFIER_UNDER_CARET_ATTRIBUTES" />
+    <property name="ColorChooser.RecentColors" value="56-56-56-255,,,191-166-0-255,,,167-167-167-255,,,207-207-207-255,,,212-207-7-255,,,212-130-0-255,,,14-240-174-255,,,23-212-11-255,,,211-15-0-255,,,215-212-218-255,,,236-248-255-255,,,255-231-200-255,,,5-240-31-255,,,239-255-253-255,,,80-62-14-255,,,31-80-34-255,,,159-0-8-255,,,205-10-0-255,,,159-8-0-255,,,132-0-2-255" />
     <property name="dir.diff.space.button.info" value="1" />
     <property name="dir.diff.panel.divider.location" value="644" />
     <property name="OpenOrAttachDialog.OpenMode" value="new" />
     <property name="evlsprt3.173" value="19" />
-    <property name="FileTemplates.SelectedTemplate" value="Vue Single File Component" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
     <property name="Copy.OpenInEditor" value="true" />
-    <property name="fileTypeChangedCounter" value="3" />
+    <property name="fileTypeChangedCounter" value="6" />
     <property name="js.chrome.debugger.port" value="3365" />
     <property name="ExpandRunDashboardTypesPanel" value="false" />
     <property name="ExpandBeforeRunStepsPanel" value="true" />
     <property name="DBE.Default.Dialect" value="MySQL" />
-    <property name="SearchEveryWhereHistory" value="sort" />
+    <property name="SearchEveryWhereHistory" value="DynamicAdvisedInterceptor&#10;sort" />
     <property name="js.rename.search.in.comments" value="true" />
     <property name="js.rename.search.for.text.occurrences" value="false" />
     <property name="database.data.extractors.sql.create.table" value="true" />
     <property name="disable.forced.soft.wraps.notification" value="true" />
-    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6556671" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.7452229" />
     <property name="installed.kotlin.plugin.version" value="1.2.10-release-IJ2017.3-1" />
-    <property name="android-component-compatibility-check" value="1523322144500" />
+    <property name="android-component-compatibility-check" value="1523947680108" />
     <property name="project.wizard.group" value="JAVA_MODULE" />
-    <property name="project.wizard.template" value="Maven" />
+    <property name="project.wizard.template" value="Java" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="decompiler.legal.notice.accepted" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MavenModuleWizard.inheritGroupId" value="true" />
     <property name="MavenModuleWizard.inheritVersion" value="true" />
-    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
-    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
     <property name="build.toolwindow.Sync.selection.state" value="consoleView" />
     <property name="last.used.gradle.home" value="$USER_HOME$/.gradle" />
     <property name="build.toolwindow.run.selection.state" value="consoleView" />
-    <property name="last.imported.location" value="$USER_HOME$/Desktop/forge-1.8-11.14.4.1577-mdk/forge-1.8-11.14.4.1577-mdk.iml" />
+    <property name="last.imported.location" value="D:/WorkSpace/JF_Exam/jf_exam.iml" />
     <property name="FileChooser.ShowPath" value="true" />
     <property name="ShowDocumentationInToolWindow" value="false" />
     <property name="LayoutCode.optimizeImports" value="false" />
@@ -54,8 +54,36 @@
     <property name="CommittedChanges.SplitterProportions.0" value="700" />
     <property name="CommittedChanges.SplitterProportions.1" value="500" />
     <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
-    <property name="search.everywhere.max.popup.width" value="620" />
     <property name="JUnitSupport.hidePassedTests" value="true" />
-    <property name="ProjectStructure.SecondLevelElements" value="0.31177095" />
+    <property name="eclipse.project.dir" value="D:\WorkSpace\Lecture" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.10840108" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.1216545" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.13860014" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.16103059" />
+    <property name="FrameworksFinderRecursivePanel[4]" value="0.19212297" />
+    <property name="JpaViewFrameworkProvider:Module[2]" value="0.13860014" />
+    <property name="JpaViewFrameworkProvider:Module[3]" value="0.16103059" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.638448" />
+    <property name="SpringBeansModulesPanel[0]" value="0.16625103" />
+    <property name="Darcula.savedEditorTheme" value="Darcula copy" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="0" />
+    <property name="LAST_INJECTED_LANGUAGE" value="file-reference" />
+    <property name="FindSplitterProportion" value="0.23758201" />
+    <property name="quick.doc.font.size" value="MEDIUM" />
+    <property name="ProjectStructure.TopLevelElements" value="0.14954954" />
+    <property name="settings.code.style.selected.tab.CSS" value="Tabs and Indents" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="20" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="LayoutCode.rearrangeEntriesJSP" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="search.everywhere.max.popup.width" value="620" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.6742323" />
+    <property name="com.intellij.database.view.editors.ObjectEditorWithPreview.proportion" value="-0.7" />
+    <property name="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.splitter" value="0.4076923" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Wrapping and Braces" />
+    <property name="PLUGIN_FILTER" value="" />
+    <property name="export.settings.path" value="C:\Users\moonkop\Desktop\settings.jar" />
   </component>
 </application>

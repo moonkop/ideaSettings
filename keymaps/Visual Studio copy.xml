@@ -2,20 +2,29 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
-  <action id="ActivateFavoritesToolWindow" />
-  <action id="ActivateRunToolWindow" />
-  <action id="ActivateTerminalToolWindow">
+  <action id="ActivateDebugToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateRunToolWindow" />
+  <action id="ActivateTerminalToolWindow" />
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
+    <mouse-shortcut keystroke="alt button143" />
   </action>
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl c" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl w" />
   </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl j" />
@@ -23,6 +32,7 @@
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
   </action>
+  <action id="Console.Jdbc.Close" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="enter" />
@@ -36,11 +46,20 @@
   <action id="Diff.PrevChange">
     <keyboard-shortcut first-keystroke="ctrl page_up" />
   </action>
+  <action id="EditorAddOrRemoveCaret">
+    <mouse-shortcut keystroke="alt button1" />
+  </action>
   <action id="EditorCompleteStatement">
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl l" />
+  </action>
   <action id="EditorMoveToPageBottom" />
   <action id="EditorMoveToPageTop" />
+  <action id="ExtractMethod">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl m" />
+  </action>
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
@@ -51,6 +70,7 @@
   <action id="Forward">
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt right" />
+    <mouse-shortcut keystroke="alt button142" />
   </action>
   <action id="Generate">
     <keyboard-shortcut first-keystroke="alt insert" />
@@ -58,10 +78,29 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl l" />
   </action>
+  <action id="GotoImplementation">
+    <mouse-shortcut keystroke="control alt button1" />
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl f" />
   </action>
+  <action id="GotoNextBookmark">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
+  <action id="GotoNextError" />
   <action id="InsertLiveTemplate" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl v" />
+  </action>
+  <action id="MethodDown" />
+  <action id="MethodUp" />
+  <action id="MoveStatementDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveStatementUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -78,24 +117,36 @@
   <action id="PublishGroup">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl d" />
   </action>
-  <action id="PublishGroup.Upload">
-    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl g" />
-  </action>
+  <action id="QuickChangeScheme" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="ctrl alt f" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl d" />
   </action>
+  <action id="RemoteServers.ChooseServerDeployment">
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl r" />
+  </action>
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl r" />
   </action>
+  <action id="Servers.Deploy">
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl r" />
+  </action>
+  <action id="ShowBookmarks" />
+  <action id="ShowContent" />
+  <action id="ShowExecutionPoint" />
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="ctrl r" second-keystroke="ctrl e" />
   </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="alt f3" />
   </action>
-  <action id="SmartTypeCompletion" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+  </action>
+  <action id="StepInto">
+    <keyboard-shortcut first-keystroke="f8" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -117,5 +168,11 @@
   </action>
   <action id="Vcs.Push">
     <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl p" />
+  </action>
+  <action id="Vcs.UpdateProject">
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl u" />
+  </action>
+  <action id="javaee.UpdateRunningApplication">
+    <keyboard-shortcut first-keystroke="ctrl g" second-keystroke="ctrl g" />
   </action>
 </keymap>

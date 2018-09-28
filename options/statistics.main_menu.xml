@@ -1,8 +1,10 @@
 <application>
   <component name="MainMenuCollector">
     <counts>
-      <entry path="Analyze -&gt; Hide Coverage Data" count="1" />
-      <entry path="Analyze -&gt; Inspect Code..." count="1" />
+      <entry path="Analyze -&gt; Configure Current File Analysis..." count="1" />
+      <entry path="Analyze -&gt; Hide Coverage Data" count="2" />
+      <entry path="Analyze -&gt; Inspect Code..." count="3" />
+      <entry path="Build -&gt; Build Artifacts..." count="10" />
       <entry path="Build -&gt; Build Module" count="1" />
       <entry path="Build -&gt; Build Project" count="1" />
       <entry path="Build -&gt; Rebuild" count="1" />
@@ -12,35 +14,62 @@
       <entry path="Code -&gt; Optimize Imports" count="1" />
       <entry path="Code -&gt; Rearrange Code" count="3" />
       <entry path="Code -&gt; Show Reformat File Dialog" count="1" />
-      <entry path="Edit -&gt; Find -&gt; Find in Path..." count="4" />
-      <entry path="File -&gt; Close Project" count="14" />
-      <entry path="File -&gt; Export Settings..." count="4" />
+      <entry path="Code -&gt; Surround With..." count="3" />
+      <entry path="Code -&gt; Surround with Live Template..." count="1" />
+      <entry path="Edit -&gt; Find -&gt; Find in Path..." count="6" />
+      <entry path="Edit -&gt; Undo" count="1" />
+      <entry path="File -&gt; Close Project" count="16" />
+      <entry path="File -&gt; Export Settings..." count="5" />
       <entry path="File -&gt; File Encoding" count="1" />
-      <entry path="File -&gt; Invalidate Caches / Restart..." count="3" />
+      <entry path="File -&gt; Invalidate Caches / Restart..." count="4" />
       <entry path="File -&gt; New -&gt; Kotlin File/Class" count="1" />
       <entry path="File -&gt; New -&gt; Module..." count="1" />
-      <entry path="File -&gt; New -&gt; Project..." count="6" />
+      <entry path="File -&gt; New -&gt; Project from Version Control -&gt; Git" count="1" />
+      <entry path="File -&gt; New -&gt; Project from Version Control -&gt; GitHub" count="1" />
+      <entry path="File -&gt; New -&gt; Project..." count="7" />
       <entry path="File -&gt; New Project..." count="1" />
       <entry path="File -&gt; New..." count="1" />
       <entry path="File -&gt; Open Recent -&gt; Manage Projects..." count="1" />
-      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="21" />
-      <entry path="File -&gt; Project Structure..." count="2" />
-      <entry path="File -&gt; Settings..." count="32" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="40" />
+      <entry path="File -&gt; Open..." count="3" />
+      <entry path="File -&gt; Project Structure..." count="3" />
+      <entry path="File -&gt; Settings..." count="52" />
       <entry path="File -&gt; Synchronize" count="2" />
-      <entry path="Help -&gt; Register..." count="2" />
+      <entry path="Help -&gt; Check for Updates..." count="1" />
+      <entry path="Help -&gt; Keymap Reference" count="1" />
+      <entry path="Help -&gt; Register..." count="4" />
+      <entry path="Navigate -&gt; Class..." count="1" />
+      <entry path="Navigate -&gt; File..." count="1" />
       <entry path="Navigate -&gt; Implementation(s)" count="1" />
       <entry path="Run -&gt; Debug" count="1" />
       <entry path="Run -&gt; Run" count="7" />
       <entry path="Run -&gt; View Breakpoints..." count="1" />
+      <entry path="Tools -&gt; Deployment -&gt; Browse Remote Host" count="2" />
       <entry path="Tools -&gt; Deployment -&gt; Configuration..." count="12" />
       <entry path="Tools -&gt; Deployment -&gt; Upload to Default Server" count="1" />
-      <entry path="VCS -&gt; Commit" count="2" />
-      <entry path="VCS -&gt; Enable Version Control Integration..." count="2" />
+      <entry path="Tools -&gt; JShell Console..." count="1" />
+      <entry path="Tools -&gt; Start SSH session..." count="1" />
+      <entry path="Tools -&gt; XML Actions -&gt; Generate XSD Schema from XML File..." count="1" />
+      <entry path="VCS -&gt; Browse VCS Repository -&gt; Browse CVS Repository..." count="1" />
+      <entry path="VCS -&gt; Browse VCS Repository -&gt; Browse Subversion Repository..." count="2" />
+      <entry path="VCS -&gt; Browse VCS Repository -&gt; Show Git Repository Log..." count="2" />
+      <entry path="VCS -&gt; Commit" count="7" />
+      <entry path="VCS -&gt; Enable Version Control Integration..." count="3" />
+      <entry path="VCS -&gt; Git -&gt; Create Patch from Local Changes..." count="1" />
       <entry path="VCS -&gt; Git -&gt; Merge Changes..." count="2" />
+      <entry path="VCS -&gt; Git -&gt; Pull..." count="6" />
+      <entry path="VCS -&gt; Git -&gt; Push..." count="6" />
+      <entry path="VCS -&gt; Git -&gt; Rebase..." count="1" />
+      <entry path="VCS -&gt; Git -&gt; Remotes..." count="3" />
       <entry path="VCS -&gt; Git -&gt; Show History" count="1" />
-      <entry path="VCS -&gt; Local History -&gt; Show History" count="12" />
+      <entry path="VCS -&gt; Import into Version Control -&gt; Create Git Repository..." count="3" />
+      <entry path="VCS -&gt; Local History -&gt; Show History" count="14" />
+      <entry path="VCS -&gt; Refresh File Status" count="3" />
+      <entry path="VCS -&gt; Show Local Changes as UML" count="1" />
+      <entry path="VCS -&gt; Subversion -&gt; Add to VCS" count="3" />
+      <entry path="VCS -&gt; Subversion -&gt; Share Directory..." count="2" />
       <entry path="VCS -&gt; Update Project" count="1" />
-      <entry path="VCS -&gt; VCS Operations Popup..." count="2" />
+      <entry path="VCS -&gt; VCS Operations Popup..." count="4" />
       <entry path="View -&gt; Context Info" count="1" />
       <entry path="View -&gt; Expression Type" count="1" />
       <entry path="View -&gt; Navigation Bar" count="2" />
@@ -50,8 +79,10 @@
       <entry path="View -&gt; Status Bar" count="2" />
       <entry path="View -&gt; Tool Buttons" count="2" />
       <entry path="View -&gt; Tool Windows -&gt; Ant Build" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Database" count="2" />
+      <entry path="View -&gt; Tool Windows -&gt; Favorites" count="1" />
       <entry path="View -&gt; Tool Windows -&gt; Gradle" count="2" />
-      <entry path="View -&gt; Tool Windows -&gt; Persistence" count="1" />
+      <entry path="View -&gt; Tool Windows -&gt; Persistence" count="3" />
       <entry path="View -&gt; Toolbar" count="2" />
     </counts>
   </component>

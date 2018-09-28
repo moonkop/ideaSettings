@@ -149,13 +149,20 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="a4213" />
+        <option name="BACKGROUND" value="1f5022" />
+        <option name="EFFECT_COLOR" value="5f01f" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="4ec9b0" />
+      </value>
+    </option>
+    <option name="INFO_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="54543d" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="JAVA_KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
@@ -169,12 +176,13 @@
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="25963a" />
+        <option name="EFFECT_COLOR" value="d48200" />
       </value>
     </option>
     <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="d2d2d3" />
+        <option name="FOREGROUND" value="d7d4da" />
         <option name="BACKGROUND" value="1e1e1e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -182,6 +190,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="4c9261" />
+        <option name="EFFECT_COLOR" value="d48200" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
@@ -192,12 +201,12 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="50835a" />
-        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="488f48" />
+        <option name="EFFECT_COLOR" value="d48200" />
       </value>
     </option>
   </attributes>

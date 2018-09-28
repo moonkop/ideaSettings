@@ -1,5 +1,7 @@
 <application>
   <component name="DebuggerSettings">
+    <option name="WATCH_RETURN_VALUES" value="true" />
+    <option name="AUTO_VARIABLES_MODE" value="true" />
     <filter>
       <option name="PATTERN" value="com.sun.*" />
       <option name="ENABLED" value="true" />
@@ -72,6 +74,11 @@
     </filter>
     <filter>
       <option name="PATTERN" value="kotlin.*" />
+      <option name="ENABLED" value="true" />
+      <option name="INCLUDE" value="true" />
+    </filter>
+    <filter>
+      <option name="PATTERN" value="java.lang.reflect.Method" />
       <option name="ENABLED" value="true" />
       <option name="INCLUDE" value="true" />
     </filter>

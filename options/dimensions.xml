@@ -3,13 +3,13 @@
     <location key="FileChooserDialogImpl.0.0.1920.1080" x="342" y="340" />
     <location key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" x="692" y="307" />
     <location key="GitCloneDialog.0.0.1920.1080" x="769" y="339" />
-    <location key="SettingsEditor.0.0.1920.1080" x="357" y="112" />
+    <location key="SettingsEditor.0.0.1920.1080" x="566" y="171" />
     <location key="WebDeployment.AddServerDialog.v.1.0.0.1920.1080" x="889" y="476" />
     <location key="ftp.server.browser.0.0.1920.1080" x="1087" y="411" />
-    <location key="#Deployment.0.0.1920.1080" x="674" y="127" />
-    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="370" y="131" />
-    <location key="find.popup.0.0.1920.1080" x="584" y="90" />
-    <location key="WELCOME_SCREEN.0.0.1920.1080" x="959" y="426" />
+    <location key="#Deployment.0.0.1920.1080" x="989" y="144" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" x="360" y="115" />
+    <location key="find.popup.0.0.1920.1080" x="541" y="61" />
+    <location key="WELCOME_SCREEN.0.0.1920.1080" x="962" y="440" />
     <location key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.0.0.1920.1080" x="763" y="350" />
     <location key="NewPhpFileDialog.0.0.1920.1080" x="776" y="445" />
     <location key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog.0.0.1920.1080" x="739" y="379" />
@@ -20,7 +20,7 @@
     <location key="#Notifications.0.0.1920.1080" x="709" y="245" />
     <location key="NewPhpClassDialog.0.0.1920.1080" x="773" y="343" />
     <location key="#SQL_Dialects.0.0.1920.1080" x="321" y="220" />
-    <location key="ProcessPopupWindow.0.0.1920.1080" x="239" y="472" />
+    <location key="ProcessPopupWindow.0.0.1920.1080" x="550" y="651" />
     <location key="#com.intellij.ide.util.ExportDialog.0.0.1920.1080" x="590" y="258" />
     <location key="MergeDialog.0.0.1920.1080" x="51" y="47" />
     <location key="MultipleFileMergeDialog.0.0.1920.1080" x="655" y="256" />
@@ -41,8 +41,8 @@
     <location key="#Glassfish_Server.0.0.1920.1080" x="824" y="543" />
     <location key="#Tomcat_Server.0.0.1920.1080" x="829" y="517" />
     <location key="#Web_Browsers.0.0.1920.1080" x="841" y="461" />
-    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" x="966" y="253" />
-    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="586" y="264" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.1920.1080" x="25" y="35" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080" x="525" y="66" />
     <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.1920.1080" x="646" y="153" />
     <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080" x="701" y="133" />
     <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080" x="690" y="273" />
@@ -59,7 +59,7 @@
     <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.1920.1080" x="794" y="146" />
     <location key="StructurePopup.0.0.1920.1080" x="671" y="331" />
     <location key="com.intellij.database.view.ui.DeleteDialog.0.0.1920.1080" x="868" y="412" />
-    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1080" x="653" y="197" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.1920.1080" x="712" y="279" />
     <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.1920.1080" x="1169" y="311" />
     <location key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD.0.0.1920.1080" x="618" y="364" />
     <location key="#Getter_Template.0.0.1920.1080" x="552" y="176" />
@@ -71,24 +71,167 @@
     <location key="#mysql-connector-java-5.1.32.jar.0.0.1920.1080" x="702" y="154" />
     <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1920.1080" x="1048" y="391" />
     <location key="#Live_Templates.0.0.1920.1080" x="1033" y="143" />
+    <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.0.1920.1080" x="1051" y="335" />
+    <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.0.1920.1080" x="867" y="376" />
+    <location key="svn.passwordDialog.0.0.1920.1080" x="829" y="455" />
+    <location key="svn.sslDialog.0.0.1920.1080" x="769" y="448" />
+    <location key="svn4idea.delete.options.0.0.1920.1080" x="908" y="373" />
+    <location key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog.0.0.1920.1080" x="907" y="247" />
+    <location key="Subversion.BranchConfigurationDialog.0.0.1920.1080" x="807" y="349" />
+    <location key="#deployOnServer.0.0.1920.1080" x="685" y="79" />
+    <location key="#TomEE_Server.0.0.1920.1080" x="697" y="453" />
+    <location key="#BuildArtifactsBeforeRunChooser.0.0.1920.1080" x="799" y="319" />
+    <location key="chooseDestDirectoryDialog.0.0.1920.1080" x="758" y="295" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.-644.-1440.2560.1440" x="106" y="-1084" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.-644.-1440.2560.1440" x="-238" y="-908" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.-644.-1440.2560.1440" x="-291" y="-944" />
+    <location key="VCS.EditChangelistDialog.0.0.2560.1440" x="470" y="570" />
+    <location key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog.0.0.2560.1440" x="482" y="431" />
+    <location key="CommitChangelistDialog2.0.0.2560.1440" x="1067" y="327" />
+    <location key="DiffContextDialog.0.0.2560.1440" x="291" y="65" />
+    <location key="#Deployment.0.0.2560.1440" x="316" y="485" />
+    <location key="svn4idea.delete.options.0.0.2560.1440" x="533" y="521" />
+    <location key="AbstractVcsHelper.FilterDialog.org.jetbrains.idea.svn.history.SvnVersionFilterComponent.0.0.2560.1440" x="474" y="546" />
+    <location key="FileChooserDialogImpl.0.0.2560.1440" x="420" y="456" />
+    <location key="SettingsEditor.0.0.2560.1440" x="427" y="296" />
+    <location key="Vcs.Push.Dialog.0.0.2560.1440" x="1103" y="501" />
+    <location key="#Notifications.0.0.2560.1440" x="389" y="428" />
+    <location key="git4idea.merge.GitPullDialog.0.0.2560.1440" x="394" y="488" />
+    <location key="ProcessPopupWindow.0.0.2560.1440" x="958" y="1295" />
+    <location key="RollbackChangesDialog.0.0.2560.1440" x="467" y="404" />
+    <location key="git4idea.rebase.GitRebaseDialog.0.0.2560.1440" x="458" y="560" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" x="794" y="282" />
+    <location key="com.intellij.database.view.ui.DeleteDialog.0.0.2560.1440" x="494" y="401" />
+    <location key="SettingsEditor.0.0.1280.1024" x="119" y="150" />
+    <location key="CommitChangelistDialog2.0.0.1280.1024" x="292" y="183" />
+    <location key="WELCOME_SCREEN.0.0.1280.1024" x="642" y="522" />
+    <location key="Vcs.Push.Dialog.0.0.1280.1024" x="316" y="296" />
+    <location key="GitCloneDialog.0.0.1280.1024" x="447" y="434" />
+    <location key="new project wizard.0.0.2560.1440" x="920" y="317" />
+    <location key="WELCOME_SCREEN.0.0.2560.1440" x="1282" y="560" />
+    <location key="#Project_Structure.0.0.2560.1440" x="760" y="272" />
+    <location key="#com.intellij.javaee.module.view.web.EditWebRootDialog.0.0.2560.1440" x="838" y="579" />
+    <location key="find.popup.0.0.2560.1440" x="1144" y="105" />
+    <location key="spring file set editor.0.0.2560.1440" x="629" y="667" />
+    <location key="GitCloneDialog.0.0.2560.1440" x="1042" y="606" />
+    <location key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.0.0.2560.1440" x="1111" y="568" />
+    <location key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog.0.0.2560.1440" x="781" y="423" />
+    <location key="#com.intellij.fileTypes.FileTypeChooser.0.0.2560.1440" x="1012" y="493" />
+    <location key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable.0.0.2560.1440" x="658" y="401" />
+    <location key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath.0.0.2560.1440" x="738" y="699" />
+    <location key="#com.intellij.ide.util.TreeClassChooserDialog.0.0.2560.1440" x="1009" y="487" />
+    <location key="generate.patterns.dialog.0.0.2560.1440" x="816" y="503" />
+    <location key="#com.intellij.ide.util.MemberChooser.0.0.2560.1440" x="1085" y="413" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.0.0.2560.1440" x="1046" y="580" />
+    <location key="#default.0.0.2560.1440" x="972" y="406" />
+    <location key="MergeDialog.0.0.2560.1440" x="235" y="92" />
+    <location key="MultipleFileMergeDialog.0.0.2560.1440" x="636" y="439" />
+    <location key="com.intellij.database.view.ui.DbObjectDialog.0.0.2560.1440" x="514" y="544" />
+    <location key="Maven.ArtifactSearchDialog.0.0.2560.1440" x="810" y="353" />
+    <location key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog.0.0.2560.1440" x="720" y="498" />
+    <location key="VCS.ChangelistChooser.0.0.2560.1440" x="1126" y="607" />
+    <location key="com.intellij.openapi.vcs.actions.ShowMessageHistoryAction$1.0.0.2560.1440" x="853" y="677" />
+    <location key="#Assign_Data_Sources.0.0.2560.1440" x="1035" y="439" />
+    <location key="NewModule_or_Project.wizard.0.0.2560.1440" x="604" y="377" />
+    <location key="#BuildArtifactsBeforeRunChooser.0.0.2560.1440" x="704" y="558" />
+    <location key="#com.intellij.ide.util.PackageChooserDialog.0.0.2560.1440" x="1009" y="475" />
+    <location key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.2560.1440" x="950" y="242" />
+    <location key="VcsDiffUtil.ChangesDialog.0.0.2560.1440" x="987" y="427" />
+    <location key="IdeErrosDialog.0.0.2560.1440" x="882" y="540" />
+    <location key="#xdebugger.evaluate.0.0.2560.1440" x="745" y="558" />
+    <location key="#Inspections.0.0.2560.1440" x="912" y="378" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.2560.1440" x="1010" y="453" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.2560.1440" x="486" y="529" />
+    <location key="#xdebugger.XInspectDialog.0.0.2560.1440" x="819" y="468" />
+    <location key="#com.intellij.debugger.actions.ViewTextAction.0.0.2560.1440" x="725" y="644" />
+    <location key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.0.0.2560.1440" x="376" y="188" />
+    <location key="#com.intellij.refactoring.move.moveInstanceMethod.MoveInstanceMethodDialog.0.0.2560.1440" x="387" y="509" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.0.0.2560.1440" x="1297" y="489" />
+    <location key="#org.jetbrains.debugger.memory.view.InstancesWindow.0.0.2560.1440" x="823" y="613" />
+    <location key="bookmarks.0.0.2560.1440" x="221" y="532" />
+    <location key="#Menus_and_Toolbars.0.0.2560.1440" x="1703" y="824" />
+    <location key="SettingsEditor.2560.572.1920.1080" x="1141" y="529" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.2560.572.1920.1080" x="3250" y="845" />
+    <location key="GridCell.Tab.5.left.0.0.2560.1440" x="477" y="1229" />
+    <location key="GridCell.Tab.5.center.0.0.2560.1440" x="477" y="1229" />
+    <location key="GridCell.Tab.5.right.0.0.2560.1440" x="477" y="1229" />
+    <location key="GridCell.Tab.5.bottom.0.0.2560.1440" x="477" y="1229" />
+    <location key="GridCell.Tab.5.left.2560.476.1920.1080" x="729" y="1080" />
+    <location key="GridCell.Tab.5.center.2560.476.1920.1080" x="729" y="1080" />
+    <location key="GridCell.Tab.5.right.2560.476.1920.1080" x="729" y="1080" />
+    <location key="GridCell.Tab.5.bottom.2560.476.1920.1080" x="729" y="1080" />
+    <location key="GridCell.Tab.2.left.2560.476.1920.1080" x="402" y="1100" />
+    <location key="GridCell.Tab.2.center.2560.476.1920.1080" x="402" y="1100" />
+    <location key="GridCell.Tab.2.right.2560.476.1920.1080" x="402" y="1100" />
+    <location key="GridCell.Tab.2.bottom.2560.476.1920.1080" x="402" y="1100" />
+    <location key="GridCell.Tab.-1.left.2560.476.1920.1080" x="578" y="764" />
+    <location key="GridCell.Tab.-1.center.2560.476.1920.1080" x="578" y="764" />
+    <location key="GridCell.Tab.-1.right.2560.476.1920.1080" x="578" y="764" />
+    <location key="GridCell.Tab.-1.bottom.2560.476.1920.1080" x="578" y="764" />
+    <location key="GridCell.Tab.3.left.2560.476.1920.1080" x="0" y="491" />
+    <location key="GridCell.Tab.3.center.2560.476.1920.1080" x="0" y="491" />
+    <location key="GridCell.Tab.3.right.2560.476.1920.1080" x="0" y="491" />
+    <location key="GridCell.Tab.3.bottom.2560.476.1920.1080" x="0" y="491" />
+    <location key="GridCell.Tab.3.left.0.0.2560.1440" x="441" y="469" />
+    <location key="GridCell.Tab.3.center.0.0.2560.1440" x="441" y="469" />
+    <location key="GridCell.Tab.3.right.0.0.2560.1440" x="441" y="469" />
+    <location key="GridCell.Tab.3.bottom.0.0.2560.1440" x="441" y="469" />
+    <location key="git4idea.merge.GitPullDialog.2560.476.1920.1080" x="3279" y="781" />
+    <location key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate.2560.476.1920.1080" x="3286" y="876" />
+    <location key="#com.intellij.ide.util.MemberChooser.2560.476.1920.1080" x="3325" y="680" />
+    <location key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.2560.476.1920.1080" x="3041" y="725" />
+    <location key="#xdebugger.evaluate.2560.476.1920.1080" x="517" y="451" />
+    <location key="CommitChangelistDialog2.2560.476.1920.1080" x="3133" y="587" />
+    <location key="Vcs.Push.Dialog.2560.476.1920.1080" x="3196" y="720" />
+    <location key="MergeDialog.2560.476.1920.1080" x="187" y="43" />
+    <location key="MultipleFileMergeDialog.2560.476.1920.1080" x="3215" y="722" />
+    <location key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.2560.476.1920.1080" x="3228" y="673" />
+    <location key="#Console.0.0.2560.1440" x="67" y="454" />
+    <location key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser.2560.476.1920.1080" x="3178" y="614" />
+    <location key="ProcessPopupWindow.2560.476.1920.1080" x="3998" y="1412" />
+    <location key="extract.method.dialog.0.0.2560.1440" x="1443" y="608" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.2560.1440" x="1023" y="435" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.2560.1440" x="1110" y="334" />
+    <location key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog.0.0.2560.1440" x="988" y="427" />
+    <location key="com.intellij.database.view.editors.DatabaseObjectCommentEditor$1$1.0.0.2560.1440" x="572" y="424" />
+    <location key="GridCell.Tab.-1.left.0.0.2560.1440" x="1604" y="19" />
+    <location key="GridCell.Tab.-1.center.0.0.2560.1440" x="1604" y="19" />
+    <location key="GridCell.Tab.-1.right.0.0.2560.1440" x="1604" y="19" />
+    <location key="GridCell.Tab.-1.bottom.0.0.2560.1440" x="1604" y="19" />
+    <location key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog.0.0.2560.1440" x="1059" y="559" />
+    <location key="#Customize_Threads_View.0.0.2560.1440" x="1126" y="546" />
+    <location key="DUMP_DIALOG_DIMENSION_KEY.0.0.2560.1440" x="960" y="503" />
+    <location key="ExecutionTargetDialog.0.0.1920.1080@120dpi" x="693" y="232" />
+    <location key="WebDeployment.AddServerDialog.v.1.0.0.2560.1440" x="1075" y="583" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.2560.1440" x="618" y="552" />
+    <location key="#com.intellij.refactoring.rename.AutomaticRenamingDialog.0.0.2560.1440" x="1503" y="0" />
+    <location key="#com.intellij.refactoring.memberPullUp.PullUpDialog.0.0.2560.1440" x="989" y="462" />
+    <location key="com.intellij.lang.javascript.refactoring.extractMethod.JSExtractFunctionDialog.0.0.2560.1440" x="1021" y="336" />
+    <location key="#xdebugger.XInspectDialog.0.0.1920.1080" x="1216" y="259" />
+    <location key="#org.jetbrains.debugger.memory.view.InstancesWindow.0.0.1920.1080" x="126" y="337" />
+    <location key="#Inspections.0.0.1920.1080" x="112" y="202" />
+    <location key="#com.intellij.ide.scriptingContext.ui.PerFileMappingsDialogWrapper.0.0.1920.1080" x="699" y="322" />
+    <location key="#default.0.0.1920.1080" x="172" y="217" />
+    <location key="#Browse_JetBrains_Plugins_.0.0.1920.1080" x="794" y="183" />
+    <location key="#Unnamed.0.0.1920.1080" x="638" y="130" />
     <size key="#Deployment.0.0.1920.1080" width="816" height="724" />
-    <size key="javadoc.popup.0.0.1920.1080" width="419" height="185" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="273" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="273" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="273" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="273" />
+    <size key="javadoc.popup.0.0.1920.1080" width="579" height="522" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1876" height="188" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1876" height="188" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1876" height="188" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1876" height="188" />
     <size key="find.popup.0.0.1920.1080" width="893" height="955" />
     <size key="com.intellij.database.view.ui.AbstractDbRefactoringDialog.0.0.1920.1080" width="670" height="654" />
-    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="337" />
-    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="337" />
-    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1876" height="337" />
-    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1876" height="337" />
-    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1876" height="337" />
-    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1876" height="337" />
-    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1876" height="337" />
-    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1876" height="337" />
-    <size key="SettingsEditor.0.0.1920.1080" width="1126" height="729" />
-    <size key="ProcessPopupWindow.0.0.1920.1080" width="1039" height="122" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1876" height="284" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1876" height="284" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1876" height="284" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1876" height="284" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080" width="1876" height="284" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080" width="1876" height="284" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080" width="1876" height="284" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080" width="1876" height="284" />
+    <size key="SettingsEditor.0.0.1920.1080" width="1297" height="729" />
+    <size key="ProcessPopupWindow.0.0.1920.1080" width="1129" height="118" />
     <size key="GridCell.Tab.0.left.1920.0.1920.1080" width="1876" height="265" />
     <size key="GridCell.Tab.0.center.1920.0.1920.1080" width="1876" height="265" />
     <size key="GridCell.Tab.0.right.1920.0.1920.1080" width="1876" height="265" />
@@ -97,39 +240,39 @@
     <size key="HiddenNamespacesPopup.0.0.1920.1080" width="222" height="469" />
     <size key="javadoc.popup.-1920.0.1920.1080" width="446" height="171" />
     <size key="new project wizard.0.0.1920.1080" width="957" height="776" />
-    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1092" height="851" />
-    <size key="GridCell.Tab.3.left.0.0.1920.1080" width="914" height="337" />
-    <size key="GridCell.Tab.3.center.0.0.1920.1080" width="914" height="337" />
-    <size key="GridCell.Tab.3.right.0.0.1920.1080" width="914" height="337" />
-    <size key="GridCell.Tab.3.bottom.0.0.1920.1080" width="914" height="337" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080" width="1092" height="935" />
+    <size key="GridCell.Tab.3.left.0.0.1920.1080" width="1343" height="337" />
+    <size key="GridCell.Tab.3.center.0.0.1920.1080" width="1343" height="337" />
+    <size key="GridCell.Tab.3.right.0.0.1920.1080" width="1343" height="337" />
+    <size key="GridCell.Tab.3.bottom.0.0.1920.1080" width="1343" height="337" />
     <size key="GridCell.Tab.-1.left.0.0.1920.1080" width="1876" height="337" />
     <size key="GridCell.Tab.-1.center.0.0.1920.1080" width="1876" height="337" />
     <size key="GridCell.Tab.-1.right.0.0.1920.1080" width="1876" height="337" />
     <size key="GridCell.Tab.-1.bottom.0.0.1920.1080" width="1876" height="337" />
     <size key="NewModule_or_Project.wizard.0.0.1920.1080" width="897" height="735" />
     <size key="#Customize_Data_Views.0.0.1920.1080" width="669" height="615" />
-    <size key="DebuggerActiveHint.0.0.1920.1080" width="452" height="444" />
+    <size key="DebuggerActiveHint.0.0.1920.1080" width="827" height="444" />
     <size key="#com.intellij.ide.actions.ChooseComponentsToExportDialog.0.0.1920.1080" width="521" height="629" />
-    <size key="GridCell.Tab.4.left.0.0.1920.1080" width="1876" height="337" />
-    <size key="GridCell.Tab.4.center.0.0.1920.1080" width="1876" height="337" />
-    <size key="GridCell.Tab.4.right.0.0.1920.1080" width="1876" height="337" />
-    <size key="GridCell.Tab.4.bottom.0.0.1920.1080" width="1876" height="337" />
-    <size key="GridCell.Tab.5.left.0.0.1920.1080" width="1876" height="338" />
-    <size key="GridCell.Tab.5.center.0.0.1920.1080" width="1876" height="338" />
-    <size key="GridCell.Tab.5.right.0.0.1920.1080" width="1876" height="338" />
-    <size key="GridCell.Tab.5.bottom.0.0.1920.1080" width="1876" height="338" />
-    <size key="GridCell.Tab.8.left.0.0.1920.1080" width="1876" height="476" />
-    <size key="GridCell.Tab.8.center.0.0.1920.1080" width="1876" height="476" />
-    <size key="GridCell.Tab.8.right.0.0.1920.1080" width="1876" height="476" />
-    <size key="GridCell.Tab.8.bottom.0.0.1920.1080" width="1876" height="476" />
+    <size key="GridCell.Tab.4.left.0.0.1920.1080" width="1343" height="337" />
+    <size key="GridCell.Tab.4.center.0.0.1920.1080" width="1343" height="337" />
+    <size key="GridCell.Tab.4.right.0.0.1920.1080" width="1343" height="337" />
+    <size key="GridCell.Tab.4.bottom.0.0.1920.1080" width="1343" height="337" />
+    <size key="GridCell.Tab.5.left.0.0.1920.1080" width="1068" height="337" />
+    <size key="GridCell.Tab.5.center.0.0.1920.1080" width="1068" height="337" />
+    <size key="GridCell.Tab.5.right.0.0.1920.1080" width="1068" height="337" />
+    <size key="GridCell.Tab.5.bottom.0.0.1920.1080" width="1068" height="337" />
+    <size key="GridCell.Tab.8.left.0.0.1920.1080" width="1876" height="269" />
+    <size key="GridCell.Tab.8.center.0.0.1920.1080" width="1876" height="269" />
+    <size key="GridCell.Tab.8.right.0.0.1920.1080" width="1876" height="269" />
+    <size key="GridCell.Tab.8.bottom.0.0.1920.1080" width="1876" height="269" />
     <size key="GridCell.Tab.7.left.0.0.1920.1080" width="1876" height="476" />
     <size key="GridCell.Tab.7.center.0.0.1920.1080" width="1876" height="476" />
     <size key="GridCell.Tab.7.right.0.0.1920.1080" width="1876" height="476" />
     <size key="GridCell.Tab.7.bottom.0.0.1920.1080" width="1876" height="476" />
-    <size key="GridCell.Tab.6.left.0.0.1920.1080" width="1876" height="476" />
-    <size key="GridCell.Tab.6.center.0.0.1920.1080" width="1876" height="476" />
-    <size key="GridCell.Tab.6.right.0.0.1920.1080" width="1876" height="476" />
-    <size key="GridCell.Tab.6.bottom.0.0.1920.1080" width="1876" height="476" />
+    <size key="GridCell.Tab.6.left.0.0.1920.1080" width="1068" height="337" />
+    <size key="GridCell.Tab.6.center.0.0.1920.1080" width="1068" height="337" />
+    <size key="GridCell.Tab.6.right.0.0.1920.1080" width="1068" height="337" />
+    <size key="GridCell.Tab.6.bottom.0.0.1920.1080" width="1068" height="337" />
     <size key="GridCell.Tab.10.left.0.0.1920.1080" width="1876" height="335" />
     <size key="GridCell.Tab.10.center.0.0.1920.1080" width="1876" height="335" />
     <size key="GridCell.Tab.10.right.0.0.1920.1080" width="1876" height="335" />
@@ -137,5 +280,149 @@
     <size key="StructurePopup.0.0.1920.1080" width="561" height="368" />
     <size key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.1920.1080" width="865" height="921" />
     <size key="#Live_Templates.0.0.1920.1080" width="599" height="796" />
+    <size key="ftp.server.browser.0.0.1920.1080" width="190" height="557" />
+    <size key="GridCell.Tab.0.left.0.0.1280.1024" width="1236" height="273" />
+    <size key="GridCell.Tab.0.center.0.0.1280.1024" width="1236" height="273" />
+    <size key="GridCell.Tab.0.right.0.0.1280.1024" width="1236" height="273" />
+    <size key="GridCell.Tab.0.bottom.0.0.1280.1024" width="1236" height="273" />
+    <size key="GridCell.Tab.1.left.0.0.1280.1024" width="1236" height="273" />
+    <size key="GridCell.Tab.1.center.0.0.1280.1024" width="1236" height="273" />
+    <size key="GridCell.Tab.1.right.0.0.1280.1024" width="1236" height="273" />
+    <size key="GridCell.Tab.1.bottom.0.0.1280.1024" width="1236" height="273" />
+    <size key="GridCell.Tab.2.left.0.0.1280.1024" width="1236" height="273" />
+    <size key="GridCell.Tab.2.center.0.0.1280.1024" width="1236" height="273" />
+    <size key="GridCell.Tab.2.right.0.0.1280.1024" width="1236" height="273" />
+    <size key="GridCell.Tab.2.bottom.0.0.1280.1024" width="1236" height="273" />
+    <size key="GridCell.Tab.0.left.-644.-1440.2560.1440" width="716" height="549" />
+    <size key="GridCell.Tab.0.center.-644.-1440.2560.1440" width="716" height="549" />
+    <size key="GridCell.Tab.0.right.-644.-1440.2560.1440" width="716" height="549" />
+    <size key="GridCell.Tab.0.bottom.-644.-1440.2560.1440" width="716" height="549" />
+    <size key="GridCell.Tab.0.left.0.0.2560.1440" width="2516" height="443" />
+    <size key="GridCell.Tab.0.center.0.0.2560.1440" width="2516" height="443" />
+    <size key="GridCell.Tab.0.right.0.0.2560.1440" width="2516" height="443" />
+    <size key="GridCell.Tab.0.bottom.0.0.2560.1440" width="2516" height="443" />
+    <size key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog.0.0.2560.1440" width="621" height="555" />
+    <size key="CommitChangelistDialog2.0.0.2560.1440" width="942" height="915" />
+    <size key="ProcessPopupWindow.0.0.2560.1440" width="400" height="120" />
+    <size key="SettingsEditor.0.0.1280.1024" width="669" height="717" />
+    <size key="find.popup.0.0.2560.1440" width="926" height="657" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.2560.1440" width="1092" height="829" />
+    <size key="GridCell.Tab.8.left.0.0.2560.1440" width="2516" height="392" />
+    <size key="GridCell.Tab.8.center.0.0.2560.1440" width="2516" height="392" />
+    <size key="GridCell.Tab.8.right.0.0.2560.1440" width="2516" height="392" />
+    <size key="GridCell.Tab.8.bottom.0.0.2560.1440" width="2516" height="392" />
+    <size key="GridCell.Tab.1.left.0.0.2560.1440" width="2516" height="443" />
+    <size key="GridCell.Tab.1.center.0.0.2560.1440" width="2516" height="443" />
+    <size key="GridCell.Tab.1.right.0.0.2560.1440" width="2516" height="443" />
+    <size key="GridCell.Tab.1.bottom.0.0.2560.1440" width="2516" height="443" />
+    <size key="GridCell.Tab.2.left.0.0.2560.1440" width="2516" height="443" />
+    <size key="GridCell.Tab.2.center.0.0.2560.1440" width="2516" height="443" />
+    <size key="GridCell.Tab.2.right.0.0.2560.1440" width="2516" height="443" />
+    <size key="GridCell.Tab.2.bottom.0.0.2560.1440" width="2516" height="443" />
+    <size key="generate.patterns.dialog.0.0.2560.1440" width="684" height="404" />
+    <size key="MultipleFileMergeDialog.0.0.2560.1440" width="948" height="555" />
+    <size key="HiddenNamespacesPopup.0.0.2560.1440" width="271" height="469" />
+    <size key="#com.intellij.jpa.generation.ui.DatabaseSchemaImportDialog.0.0.2560.1440" width="870" height="926" />
+    <size key="javadoc.popup.0.0.2560.1440" width="889" height="455" />
+    <size key="DebuggerActiveHint.0.0.2560.1440" width="1049" height="601" />
+    <size key="#xdebugger.evaluate.0.0.2560.1440" width="549" height="515" />
+    <size key="GridCell.Tab.9.left.0.0.2560.1440" width="2516" height="492" />
+    <size key="GridCell.Tab.9.center.0.0.2560.1440" width="2516" height="492" />
+    <size key="GridCell.Tab.9.right.0.0.2560.1440" width="2516" height="492" />
+    <size key="GridCell.Tab.9.bottom.0.0.2560.1440" width="2516" height="492" />
+    <size key="#com.intellij.debugger.actions.ViewTextAction.0.0.2560.1440" width="778" height="700" />
+    <size key="XDebugger.FullValuePopup.0.0.2560.1440" width="1290" height="715" />
+    <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.0.0.2560.1440" width="876" height="478" />
+    <size key="bookmarks.0.0.2560.1440" width="1455" height="344" />
+    <size key="GridCell.Tab.0.left.2560.572.1920.1080" width="1876" height="494" />
+    <size key="GridCell.Tab.0.center.2560.572.1920.1080" width="1876" height="494" />
+    <size key="GridCell.Tab.0.right.2560.572.1920.1080" width="1876" height="494" />
+    <size key="GridCell.Tab.0.bottom.2560.572.1920.1080" width="1876" height="494" />
+    <size key="GridCell.Tab.1.left.2560.572.1920.1080" width="1876" height="494" />
+    <size key="GridCell.Tab.1.center.2560.572.1920.1080" width="1876" height="494" />
+    <size key="GridCell.Tab.1.right.2560.572.1920.1080" width="1876" height="494" />
+    <size key="GridCell.Tab.1.bottom.2560.572.1920.1080" width="1876" height="494" />
+    <size key="GridCell.Tab.2.left.2560.572.1920.1080" width="1876" height="494" />
+    <size key="GridCell.Tab.2.center.2560.572.1920.1080" width="1876" height="494" />
+    <size key="GridCell.Tab.2.right.2560.572.1920.1080" width="1876" height="494" />
+    <size key="GridCell.Tab.2.bottom.2560.572.1920.1080" width="1876" height="494" />
+    <size key="GridCell.Tab.0.left.2560.476.1920.1080" width="2516" height="456" />
+    <size key="GridCell.Tab.0.center.2560.476.1920.1080" width="2516" height="456" />
+    <size key="GridCell.Tab.0.right.2560.476.1920.1080" width="2516" height="456" />
+    <size key="GridCell.Tab.0.bottom.2560.476.1920.1080" width="2516" height="456" />
+    <size key="GridCell.Tab.1.left.2560.476.1920.1080" width="1876" height="391" />
+    <size key="GridCell.Tab.1.center.2560.476.1920.1080" width="1876" height="391" />
+    <size key="GridCell.Tab.1.right.2560.476.1920.1080" width="1876" height="391" />
+    <size key="GridCell.Tab.1.bottom.2560.476.1920.1080" width="1876" height="391" />
+    <size key="GridCell.Tab.2.left.2560.476.1920.1080" width="1876" height="391" />
+    <size key="GridCell.Tab.2.center.2560.476.1920.1080" width="1876" height="391" />
+    <size key="GridCell.Tab.2.right.2560.476.1920.1080" width="1876" height="391" />
+    <size key="GridCell.Tab.2.bottom.2560.476.1920.1080" width="1876" height="391" />
+    <size key="GridCell.Tab.-1.left.0.0.2560.1440" width="2516" height="329" />
+    <size key="GridCell.Tab.-1.center.0.0.2560.1440" width="2516" height="329" />
+    <size key="GridCell.Tab.-1.right.0.0.2560.1440" width="2516" height="329" />
+    <size key="GridCell.Tab.-1.bottom.0.0.2560.1440" width="2516" height="329" />
+    <size key="GridCell.Tab.3.left.0.0.2560.1440" width="2516" height="329" />
+    <size key="GridCell.Tab.3.center.0.0.2560.1440" width="2516" height="329" />
+    <size key="GridCell.Tab.3.right.0.0.2560.1440" width="2516" height="329" />
+    <size key="GridCell.Tab.3.bottom.0.0.2560.1440" width="2516" height="329" />
+    <size key="GridCell.Tab.4.left.0.0.2560.1440" width="2516" height="328" />
+    <size key="GridCell.Tab.4.center.0.0.2560.1440" width="2516" height="328" />
+    <size key="GridCell.Tab.4.right.0.0.2560.1440" width="2516" height="328" />
+    <size key="GridCell.Tab.4.bottom.0.0.2560.1440" width="2516" height="328" />
+    <size key="GridCell.Tab.5.left.0.0.2560.1440" width="1846" height="181" />
+    <size key="GridCell.Tab.5.center.0.0.2560.1440" width="1846" height="181" />
+    <size key="GridCell.Tab.5.right.0.0.2560.1440" width="1846" height="181" />
+    <size key="GridCell.Tab.5.bottom.0.0.2560.1440" width="1846" height="181" />
+    <size key="GridCell.Tab.5.left.2560.476.1920.1080" width="1846" height="181" />
+    <size key="GridCell.Tab.5.center.2560.476.1920.1080" width="1846" height="181" />
+    <size key="GridCell.Tab.5.right.2560.476.1920.1080" width="1846" height="181" />
+    <size key="GridCell.Tab.5.bottom.2560.476.1920.1080" width="1846" height="181" />
+    <size key="GridCell.Tab.-1.left.2560.476.1920.1080" width="2515" height="461" />
+    <size key="GridCell.Tab.-1.center.2560.476.1920.1080" width="2515" height="461" />
+    <size key="GridCell.Tab.-1.right.2560.476.1920.1080" width="1876" height="212" />
+    <size key="GridCell.Tab.-1.bottom.2560.476.1920.1080" width="2515" height="461" />
+    <size key="GridCell.Tab.3.left.2560.476.1920.1080" width="2515" height="461" />
+    <size key="GridCell.Tab.3.center.2560.476.1920.1080" width="2515" height="461" />
+    <size key="GridCell.Tab.3.right.2560.476.1920.1080" width="2515" height="461" />
+    <size key="GridCell.Tab.3.bottom.2560.476.1920.1080" width="2515" height="461" />
+    <size key="GridCell.Tab.4.left.2560.476.1920.1080" width="1846" height="181" />
+    <size key="GridCell.Tab.4.center.2560.476.1920.1080" width="1846" height="181" />
+    <size key="GridCell.Tab.4.right.2560.476.1920.1080" width="1846" height="181" />
+    <size key="GridCell.Tab.4.bottom.2560.476.1920.1080" width="1846" height="181" />
+    <size key="DebuggerActiveHint.2560.476.1920.1080" width="511" height="444" />
+    <size key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2.2560.476.1920.1080" width="957" height="628" />
+    <size key="MergeDialog.2560.476.1920.1080" width="1920" height="1274" />
+    <size key="ProcessPopupWindow.2560.476.1920.1080" width="400" height="120" />
+    <size key="com.intellij.database.view.editors.DatabaseObjectCommentEditor$1$1.0.0.2560.1440" width="256" height="183" />
+    <size key="GridCell.Tab.0.left.0.0.1280.720" width="1236" height="125" />
+    <size key="GridCell.Tab.0.center.0.0.1280.720" width="1236" height="125" />
+    <size key="GridCell.Tab.0.right.0.0.1280.720" width="1236" height="125" />
+    <size key="GridCell.Tab.0.bottom.0.0.1280.720" width="1236" height="125" />
+    <size key="GridCell.Tab.1.left.0.0.1280.720" width="1236" height="125" />
+    <size key="GridCell.Tab.1.center.0.0.1280.720" width="1236" height="125" />
+    <size key="GridCell.Tab.1.right.0.0.1280.720" width="1236" height="125" />
+    <size key="GridCell.Tab.1.bottom.0.0.1280.720" width="1236" height="125" />
+    <size key="GridCell.Tab.2.left.0.0.1280.720" width="1236" height="125" />
+    <size key="GridCell.Tab.2.center.0.0.1280.720" width="1236" height="125" />
+    <size key="GridCell.Tab.2.right.0.0.1280.720" width="1236" height="125" />
+    <size key="GridCell.Tab.2.bottom.0.0.1280.720" width="1236" height="125" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1866" height="323" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1866" height="323" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1866" height="323" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1866" height="323" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1866" height="323" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1866" height="323" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1866" height="323" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1866" height="323" />
+    <size key="GridCell.Tab.2.left.0.0.1920.1080@120dpi" width="1866" height="323" />
+    <size key="GridCell.Tab.2.center.0.0.1920.1080@120dpi" width="1866" height="323" />
+    <size key="GridCell.Tab.2.right.0.0.1920.1080@120dpi" width="1866" height="323" />
+    <size key="GridCell.Tab.2.bottom.0.0.1920.1080@120dpi" width="1866" height="323" />
+    <size key="extract.method.dialog.0.0.2560.1440" width="540" height="453" />
+    <size key="GotoFile_FileTypePopup.0.0.2560.1440" width="200" height="200" />
+    <size key="#xdebugger.XInspectDialog.0.0.2560.1440" width="685" height="506" />
+    <size key="#org.jetbrains.debugger.memory.view.InstancesWindow.0.0.2560.1440" width="1094" height="504" />
+    <size key="#xdebugger.XInspectDialog.0.0.1920.1080" width="685" height="668" />
   </component>
 </application>

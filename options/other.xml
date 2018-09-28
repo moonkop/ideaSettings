@@ -7,15 +7,15 @@
   </component>
   <component name="PersistenceGenerationSettings">
     <option name="addToUnit" value="true" />
-    <option name="entitySuffix" value="Entry" />
+    <option name="entitySuffix" value="" />
     <option name="generateColumnProperties" value="true" />
-    <option name="generateSeparateXml" value="true" />
+    <option name="generateDefaultRelationships" value="true" />
     <option name="preferPrimitiveTypes" value="false" />
-    <option name="ENTITY_SUFFIX" value="Entry" />
-    <option name="GENERATE_SEPARATE_XML" value="true" />
+    <option name="ENTITY_SUFFIX" value="" />
     <option name="GENERATE_COLUMN_PROPERTIES" value="true" />
     <option name="ADD_TO_UNIT" value="true" />
     <option name="PREFER_PRIMITIVE_TYPES" value="false" />
+    <option name="GENERATE_DEFAULT_RELATIONSHIPS" value="true" />
   </component>
   <component name="PhpRefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FIELD" value="true" />
@@ -31,11 +31,12 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
-        <option value="https://stuc3f4e1/svn/JF_exam/" />
+        <option value="https://192.168.1.250/svn/JF_Exam" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://192.168.1.250/svn/JF_Exam" />
         <option value="https://stuc3f4e1/svn/JF_exam/" />
       </list>
     </option>

@@ -2,8 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="7z" type="ARCHIVE" />
+      <mapping ext="jhtml" type="HTML" />
       <mapping pattern="todolist" type="PLAIN_TEXT" />
       <mapping pattern="richtextbox.tpl" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="mysqldump" type="SQL" />
     </extensionMap>
   </component>
 </application>
