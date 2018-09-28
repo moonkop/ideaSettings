@@ -3,11 +3,11 @@
     <counts>
       <entry action="$Copy" count="131" />
       <entry action="$Cut" count="17" />
-      <entry action="$Delete" count="227" />
+      <entry action="$Delete" count="229" />
       <entry action="$Paste" count="2965" />
       <entry action="$Redo" count="539" />
       <entry action="$SelectAll" count="277" />
-      <entry action="$Undo" count="8897" />
+      <entry action="$Undo" count="8900" />
       <entry action="ActivateAntBuildToolWindow" count="1" />
       <entry action="ActivateDatabaseToolWindow" count="156" />
       <entry action="ActivateDebugToolWindow" count="23" />
@@ -60,7 +60,7 @@
       <entry action="CloseAllUnpinnedEditors" count="1" />
       <entry action="CloseContent" count="8" />
       <entry action="CloseProject" count="16" />
-      <entry action="CodeCompletion" count="1207" />
+      <entry action="CodeCompletion" count="1210" />
       <entry action="CollapseAllRegions" count="10" />
       <entry action="CollapseRegion" count="54" />
       <entry action="CollapseSelection" count="21" />
@@ -169,33 +169,33 @@
       <entry action="Edit options of reporter inspection" count="2" />
       <entry action="EditFavorites" count="1" />
       <entry action="EditSource" count="1" />
-      <entry action="EditorBackSpace" count="72635" />
+      <entry action="EditorBackSpace" count="72677" />
       <entry action="EditorBreadcrumbsHideBoth" count="1" />
       <entry action="EditorBreadcrumbsShowBelow" count="1" />
       <entry action="EditorChooseLookupItem" count="509" />
       <entry action="EditorChooseLookupItemCompleteStatement" count="227" />
-      <entry action="EditorChooseLookupItemReplace" count="11942" />
+      <entry action="EditorChooseLookupItemReplace" count="11943" />
       <entry action="EditorCodeBlockEnd" count="2" />
       <entry action="EditorCodeBlockStart" count="7" />
       <entry action="EditorCodeBlockStartWithSelection" count="3" />
-      <entry action="EditorCompleteStatement" count="1976" />
+      <entry action="EditorCompleteStatement" count="1977" />
       <entry action="EditorContextInfo" count="3" />
       <entry action="EditorCopy" count="3966" />
       <entry action="EditorCut" count="1498" />
       <entry action="EditorDelete" count="254" />
       <entry action="EditorDeleteLine" count="34" />
-      <entry action="EditorDeleteToWordStart" count="5420" />
-      <entry action="EditorDown" count="46964" />
+      <entry action="EditorDeleteToWordStart" count="5428" />
+      <entry action="EditorDown" count="46967" />
       <entry action="EditorDownWithSelection" count="989" />
       <entry action="EditorDuplicate" count="260" />
-      <entry action="EditorEnter" count="11853" />
-      <entry action="EditorEscape" count="795" />
+      <entry action="EditorEnter" count="11859" />
+      <entry action="EditorEscape" count="796" />
       <entry action="EditorGutterToggleGlobalIndentLines" count="2" />
       <entry action="EditorIndentSelection" count="45" />
       <entry action="EditorJoinLines" count="8" />
-      <entry action="EditorLeft" count="27925" />
+      <entry action="EditorLeft" count="27926" />
       <entry action="EditorLeftWithSelection" count="381" />
-      <entry action="EditorLineEnd" count="3034" />
+      <entry action="EditorLineEnd" count="3035" />
       <entry action="EditorLineEndWithSelection" count="218" />
       <entry action="EditorLineStart" count="550" />
       <entry action="EditorLineStartWithSelection" count="213" />
@@ -231,14 +231,14 @@
       <entry action="EditorToggleInsertState" count="52" />
       <entry action="EditorUnSelectWord" count="24" />
       <entry action="EditorUnindentSelection" count="81" />
-      <entry action="EditorUp" count="38353" />
+      <entry action="EditorUp" count="38355" />
       <entry action="EditorUpWithSelection" count="1202" />
       <entry action="EncapsulateFields" count="2" />
       <entry action="EvaluateExpression" count="45" />
       <entry action="Expand lambda to (ExamManageEbo examManageEbo) -&gt; {...}" count="1" />
       <entry action="Expand lambda to (SnakeActionArgs args) -&gt; {...}" count="1" />
       <entry action="ExpandAllRegions" count="9" />
-      <entry action="ExpandLiveTemplateByTab" count="477" />
+      <entry action="ExpandLiveTemplateByTab" count="481" />
       <entry action="ExpandRegion" count="17" />
       <entry action="ExpandTreeNode" count="1" />
       <entry action="ExportSettings" count="5" />
@@ -352,6 +352,7 @@
       <entry action="MakeModule" count="3" />
       <entry action="MakeStatic" count="2" />
       <entry action="ManageRecentProjects" count="1" />
+      <entry action="MarkAsContentRoot" count="1" />
       <entry action="MarkAsOriginalTypeAction" count="1" />
       <entry action="MarkAsPlainTextAction" count="1" />
       <entry action="Maven" count="1" />
@@ -393,9 +394,9 @@
       <entry action="NewStylesheetFile" count="1" />
       <entry action="NextParameter" count="6" />
       <entry action="NextTab" count="39" />
-      <entry action="NextTemplateVariable" count="527" />
+      <entry action="NextTemplateVariable" count="528" />
       <entry action="OpenEditorInOppositeTabGroup" count="7" />
-      <entry action="OpenFile" count="6" />
+      <entry action="OpenFile" count="8" />
       <entry action="OpenPersistenceERDiagramAction" count="1" />
       <entry action="OptimizeImports" count="3" />
       <entry action="Parameter Name Hints" count="1" />
@@ -449,15 +450,15 @@
       <entry action="Rerun" count="119" />
       <entry action="ResetColumnsWidth" count="1" />
       <entry action="Resume" count="1274" />
-      <entry action="RevealIn" count="26" />
-      <entry action="Run" count="424" />
+      <entry action="RevealIn" count="28" />
+      <entry action="Run" count="425" />
       <entry action="Run inspection on ..." count="1" />
-      <entry action="RunClass" count="43" />
+      <entry action="RunClass" count="45" />
       <entry action="RunToCursor" count="12" />
       <entry action="Runner.MinimizeView" count="5" />
       <entry action="Runner.RestoreLayout" count="1" />
       <entry action="SafeDelete" count="2" />
-      <entry action="SaveAll" count="5055" />
+      <entry action="SaveAll" count="5056" />
       <entry action="ScrollTreeToCenter" count="1" />
       <entry action="SearchEverywhere" count="15" />
       <entry action="SelectIn" count="8" />
@@ -474,10 +475,10 @@
       <entry action="ShowNpmScripts" count="3" />
       <entry action="ShowPackageDeps" count="1" />
       <entry action="ShowPopupMenu" count="23" />
-      <entry action="ShowProjectStructureSettings" count="161" />
+      <entry action="ShowProjectStructureSettings" count="162" />
       <entry action="ShowRecentTests" count="6" />
       <entry action="ShowReformatFileDialog" count="2" />
-      <entry action="ShowSettings" count="153" />
+      <entry action="ShowSettings" count="155" />
       <entry action="ShowSiblings" count="2" />
       <entry action="ShowTabsInSingleRow" count="2" />
       <entry action="ShowUmlDiagram" count="32" />

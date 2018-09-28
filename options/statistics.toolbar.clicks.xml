@@ -73,13 +73,13 @@
       <entry action="Rerun@DebuggerToolbar" count="72" />
       <entry action="Rerun@RunnerToolbar" count="47" />
       <entry action="Resume@DebuggerToolbar" count="1257" />
-      <entry action="Run@MainToolbar" count="375" />
+      <entry action="Run@MainToolbar" count="376" />
       <entry action="Run@NavBarToolbar" count="4" />
       <entry action="RunToCursor@DebuggerToolbar" count="1" />
       <entry action="Runner.RestoreLayout@DebuggerToolbar" count="1" />
       <entry action="SaveAll@MainToolbar" count="13" />
       <entry action="ShowExecutionPoint@DebuggerToolbar" count="137" />
-      <entry action="ShowProjectStructureSettings@MainToolbar" count="158" />
+      <entry action="ShowProjectStructureSettings@MainToolbar" count="159" />
       <entry action="ShowSettings@MainToolbar" count="9" />
       <entry action="StepInto@DebuggerToolbar" count="944" />
       <entry action="StepOut@DebuggerToolbar" count="65" />
@@ -174,8 +174,8 @@
       <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$8@Keymap" count="17" />
       <entry action="com.intellij.openapi.keymap.impl.ui.KeymapPanel$9@Keymap" count="4" />
       <entry action="com.intellij.openapi.roots.ui.configuration.CommonContentEntriesEditor$AddContentEntryAction@unknown" count="3" />
-      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleExcludedStateAction@ProjectStructureContentEntries" count="9" />
-      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="8" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleExcludedStateAction@ProjectStructureContentEntries" count="13" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction@ProjectStructureContentEntries" count="10" />
       <entry action="com.intellij.openapi.roots.ui.configuration.artifacts.actions.AddCompositeElementAction@ProjectStructureArtifactEditor" count="1" />
       <entry action="com.intellij.openapi.roots.ui.configuration.artifacts.actions.RemovePackagingElementAction@ProjectStructureArtifactEditor" count="9" />
       <entry action="com.intellij.openapi.vcs.changes.ChangesViewManager$ToggleDetailsAction@ChangesViewToolbar" count="1" />

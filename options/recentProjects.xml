@@ -2,6 +2,7 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
+        <option value="D:/WorkSpace/qnuiTrial" />
         <option value="D:/WorkSpace/HUAJI" />
         <option value="D:/WorkSpace/reactTrial2" />
         <option value="$USER_HOME$/Documents/Tencent Files/451979253/FileRecv/TMS" />
@@ -51,15 +52,14 @@
         <option value="$USER_HOME$/Desktop/Servlet-master/Servlet-master/jsp1" />
         <option value="$USER_HOME$/IdeaProjects/untitled" />
         <option value="$USER_HOME$/Desktop/Servlet-master/Servlet-master/servlet" />
-        <option value="$USER_HOME$/Desktop/javaWeb-master" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:/WorkSpace/HUAJI" />
+        <option value="D:/WorkSpace/qnuiTrial" />
       </list>
     </option>
-    <option name="lastPath" value="D:/WorkSpace/HUAJI" />
+    <option name="lastPath" value="D:/WorkSpace/qnuiTrial" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -344,7 +344,7 @@
               <option name="build" value="IU-173.4548.28" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1538101539300" />
+              <option name="projectOpenTimestamp" value="1538102371304" />
               <option name="buildTimestamp" value="1517264902341" />
             </RecentProjectMetaInfo>
           </value>
@@ -500,6 +500,17 @@
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="projectOpenTimestamp" value="1523322178154" />
               <option name="buildTimestamp" value="1517264902042" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/WorkSpace/qnuiTrial">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1538119795103" />
+              <option name="buildTimestamp" value="1517264924991" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
